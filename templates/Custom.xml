@@ -1,0 +1,12 @@
+<templateSet group="Custom">
+  <template name="==" value="&lt;?= $BEGIN$ ?&gt;$END$" description="Insert PHP tag &lt;?= ?&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="BEGIN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

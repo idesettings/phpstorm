@@ -1,0 +1,14 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="40" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="EDITOR_TAB_PLACEMENT" value="2" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="36" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+  </component>
+</application>

@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e34f0140-9842-4cd1-bc72-8b04bb86b9db" name="vastcorp.info" url="http://vastcorp.info">
+        <fileTransfer host="vastcorp.info" port="22" accessType="SFTP" password="dfdcdfccdfc1dfc7dfd2dfc8dfdddffcdfe9df93df99" username="jbot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="850a54e8-9b90-46b6-b235-cd81e66f035a" name="vs01.vast.ru" url="http://vast.ru">
+        <fileTransfer host="vast.ru" port="22" rootFolder="/home/jbot" accessType="SFTP" password="dfccdffedfcfdf9edff9dfc1df9ddffc" username="jbot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0db00b3e-6bda-4694-aca9-0e913e7cab7c" name="vs02.vast.ru" url="http://vs02.vast.ru">
+        <fileTransfer host="vs02.vast.ru" port="22" rootFolder="/home/vast" accessType="SFTP" password="df9fdff0dfeddfdbdfebdf9bdf9adfe3df98dfeddffddfc8dfc6dffbdfc3dfe3" username="vast">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
