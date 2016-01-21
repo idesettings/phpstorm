@@ -1,41 +1,47 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="false">
-      <option name="arguments" value="$FileName$ -o $FileNameWithoutExtension$.min.js --screw-ie8 --mangle" />
+      <option name="arguments" value="C:\www\vast\node_modules\requirejs\bin\r.js -o build.js" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compress .js files" />
+      <option name="description" value="" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
-      <option name="name" value="UglifyJS" />
-      <option name="output" value="$FileNameWithoutExtension$.min.js" />
+      <option name="name" value="RequireJS Optimizer for ContextPage" />
+      <option name="output" value="" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/uglifyjs.cmd" />
-      <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="program" value="C:/Program Files/nodejs/node.exe" />
+      <option name="scopeName" value="ContextPage" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="C:\www\vast\public\ng\Context\Page" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="-jar C:\yuicompressor-2.4.8.jar $FileName$ -o $FileNameWithoutExtension$.yui.min.js" />
+      <option name="arguments" value="bootstrap.less -x" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compresses .js files" />
+      <option name="description" value="Compiles .less files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="js" />
+      <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
-      <option name="name" value="YUI Compressor JS" />
-      <option name="output" value="$FileNameWithoutExtension$.min.js" />
+      <option name="name" value="Less Bootstrap" />
+      <option name="output" value="..\bootstrap.min.css" />
       <option name="outputFilters">
-        <array />
+        <array>
+          <FilterInfo>
+            <option name="description" value="lessc error format" />
+            <option name="name" value="lessc" />
+            <option name="regExp" value="$MESSAGE$$FILE_PATH$?:$LINE$:$COLUMN$" />
+          </FilterInfo>
+        </array>
       </option>
-      <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Program Files (x86)/Java/jre1.8.0_60/bin/java.exe" />
-      <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="outputFromStdout" value="true" />
+      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/lessc.cmd" />
+      <option name="scopeName" value="Bootstrap" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="C:\www\vast\public\bootstrap\less" />
       <envs />
     </TaskOptions>
   </component>
