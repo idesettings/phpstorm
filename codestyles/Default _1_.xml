@@ -38,6 +38,9 @@
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="SPACE_AFTER_TYPE_COLON" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
+    <option name="USE_PUBLIC_MODIFIER" value="true" />
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
