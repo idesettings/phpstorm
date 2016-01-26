@@ -31,6 +31,14 @@
           </record-format>
         </data>
       </csv-format>
+      <csv-format name="YouTrack Table">
+        <data>
+          <record-format prefix="|" suffix="|" nullText="NULL" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;" trimWhitespace="true" />
+        </data>
+        <header>
+          <record-format prefix="||" suffix="||" nullText="NULL" quotationPolicy="as needed" valueSeparator="||" recordSeparator="&#10;" trimWhitespace="true" />
+        </header>
+      </csv-format>
     </csv-formats>
   </component>
 </application>
