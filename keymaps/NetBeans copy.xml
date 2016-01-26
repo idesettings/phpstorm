@@ -39,4 +39,11 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Upsource.NewDiscussion">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="Upsource.NewDiscussionInDiff">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
 </keymap>
