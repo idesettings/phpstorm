@@ -1,13 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="r.js" type="Bash" />
       <mapping ext="lock" type="JSON" />
       <mapping ext="otf" type="Native" />
-      <mapping pattern=".gitexcludes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitexcludes" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="r.js" type="Bash" />
     </extensionMap>
   </component>
 </application>
