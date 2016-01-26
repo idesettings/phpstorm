@@ -83,6 +83,20 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
   </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="http://vastcorp.info:8080">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="for: me -Resolved delay: {No delay date} delay: &quot;2014-01-01&quot;..Today sort by: Priority" />
+      <password>dfc7df8fdf92dfeddfe5dffedff5dfd3</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>jbot</username>
+    </YouTrack>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" />
   </component>
