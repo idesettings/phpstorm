@@ -86,7 +86,7 @@
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://vastcorp.info:8080">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="for: me -Resolved delay: {No delay date} delay: &quot;2014-01-01&quot;..Today sort by: Priority" />
+      <option name="defaultSearch" value="-Resolved delay: {No delay date} delay: &quot;2014-01-01&quot;..Today sort by: Priority" />
       <password>dfc7df8fdf92dfeddfe5dffedff5dfd3</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
