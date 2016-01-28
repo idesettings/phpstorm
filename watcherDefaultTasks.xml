@@ -44,7 +44,7 @@
       <option name="workingDir" value="C:\www\vast\public\bootstrap\less" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-color $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .less files into .css files" />
@@ -52,7 +52,7 @@
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Less" />
-      <option name="output" value="$FileNameWithoutExtension$.css" />
+      <option name="output" value="../$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
@@ -65,7 +65,7 @@
       <option name="outputFromStdout" value="true" />
       <option name="program" value="$USER_HOME$/AppData/Roaming/npm/lessc.cmd" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="false" />
+      <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
