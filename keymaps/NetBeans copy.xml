@@ -2,6 +2,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="DecMinAction">
+    <keyboard-shortcut first-keystroke="alt subtract" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -22,6 +25,9 @@
   </action>
   <action id="HtmlTableCellNavigateLeft" />
   <action id="HtmlTableCellNavigateRight" />
+  <action id="IncMinAction">
+    <keyboard-shortcut first-keystroke="alt add" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
