@@ -2,6 +2,11 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="DecMinAction">
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
