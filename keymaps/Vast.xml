@@ -60,6 +60,10 @@
   <action id="Upsource.NewDiscussion">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="Upsource.NewDiscussionInDiff">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
