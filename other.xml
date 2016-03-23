@@ -15,7 +15,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>RealpathOnRelativePathsInspection</id>
+            <id>StaticInvocationViaThisInspection</id>
           </State>
         </selected-state>
       </profile-state>

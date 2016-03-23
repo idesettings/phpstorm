@@ -2,4 +2,5 @@
   <option name="myName" value="Default" />
   <option name="myLocal" value="true" />
   <inspection_tool class="RealpathOnRelativePathsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="StaticInvocationViaThisInspection" enabled="true" level="INFO" enabled_by_default="true" />
 </inspections>
