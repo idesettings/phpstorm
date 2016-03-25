@@ -7,6 +7,12 @@
             <id />
           </State>
           <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
             <id>PHP</id>
           </State>
           <State>
@@ -15,7 +21,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>StaticInvocationViaThisInspection</id>
+            <id>PhpTooManyParametersInspection</id>
           </State>
         </selected-state>
       </profile-state>
