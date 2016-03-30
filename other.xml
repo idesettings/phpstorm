@@ -13,6 +13,9 @@
             <id>Code StylePHP</id>
           </State>
           <State>
+            <id>HTML</id>
+          </State>
+          <State>
             <id>PHP</id>
           </State>
           <State>
@@ -21,7 +24,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpTooManyParametersInspection</id>
+            <id>HtmlUnknownTarget</id>
           </State>
         </selected-state>
       </profile-state>
