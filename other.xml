@@ -87,10 +87,6 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://schema.phpunit.de/4.8/phpunit.xsd" location="$USER_HOME$/.WebIde100/system/extResources/e374a285_phpunit.xsd" />
-    <resource url="http://vast.ru/api1c" location="$USER_HOME$/.WebIde95/system/extResources/91ae23b0_api1c.html" />
-  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.1.0" last-modified="1447761338000" />
   </component>
