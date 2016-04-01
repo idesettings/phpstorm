@@ -75,6 +75,9 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.1.0" last-modified="1447761338000" />
   </component>
