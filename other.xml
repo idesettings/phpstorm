@@ -7,21 +7,12 @@
             <id />
           </State>
           <State>
-            <id>Code StylePhp Inspections (EA Extended)PHP</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>Php Inspections (EA Extended)PHP</id>
-          </State>
-          <State>
-            <id>UndefinedPHP</id>
+            <id>General</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>StaticInvocationViaThisInspection</id>
+            <id>LongLine</id>
           </State>
         </selected-state>
       </profile-state>
