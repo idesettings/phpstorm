@@ -13,6 +13,9 @@
             <id>JavaScript</id>
           </State>
           <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
             <id>Node.jsJavaScript</id>
           </State>
           <State>
@@ -21,7 +24,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>TypeScript</id>
+            <id>LocalVariableNamingConventionJS</id>
           </State>
         </selected-state>
       </profile-state>
