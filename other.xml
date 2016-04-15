@@ -7,12 +7,21 @@
             <id />
           </State>
           <State>
-            <id>General</id>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>LongLine</id>
+            <id>TypeScript</id>
           </State>
         </selected-state>
       </profile-state>
