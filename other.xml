@@ -7,6 +7,9 @@
             <id />
           </State>
           <State>
+            <id>Control FlowPhp Inspections (EA Extended)PHP</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
@@ -19,12 +22,18 @@
             <id>Node.jsJavaScript</id>
           </State>
           <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Php Inspections (EA Extended)PHP</id>
+          </State>
+          <State>
             <id>TypeScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>LocalVariableNamingConventionJS</id>
+            <id>ExceptionsAnnotatingAndHandlingInspection</id>
           </State>
         </selected-state>
       </profile-state>
