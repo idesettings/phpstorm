@@ -28,12 +28,15 @@
             <id>Php Inspections (EA Extended)PHP</id>
           </State>
           <State>
+            <id>SQL</id>
+          </State>
+          <State>
             <id>TypeScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>ExceptionsAnnotatingAndHandlingInspection</id>
+            <id>SqlResolveInspection</id>
           </State>
         </selected-state>
       </profile-state>
