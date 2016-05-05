@@ -7,19 +7,22 @@
             <id />
           </State>
           <State>
-            <id>Control FlowPhp Inspections (EA Extended)PHP</id>
+            <id>Code SmellPHP</id>
           </State>
           <State>
-            <id>GeneralJavaScript</id>
+            <id>Control FlowPHP</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>Naming conventionsJavaScript</id>
-          </State>
-          <State>
-            <id>Node.jsJavaScript</id>
+            <id>JavaScript function metricsJavaScript</id>
           </State>
           <State>
             <id>PHP</id>
@@ -28,15 +31,18 @@
             <id>Php Inspections (EA Extended)PHP</id>
           </State>
           <State>
-            <id>SQL</id>
+            <id>Probable bugsPHP</id>
           </State>
           <State>
-            <id>TypeScript</id>
+            <id>Probable bugsPhp Inspections (EA Extended)PHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>SqlResolveInspection</id>
+            <id>PhpTooManyParametersInspection</id>
           </State>
         </selected-state>
       </profile-state>
