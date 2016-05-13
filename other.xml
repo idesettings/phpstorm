@@ -1,51 +1,7 @@
 <application>
   <component name="AppInspectionProfilesVisibleTreeState">
     <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Code SmellPHP</id>
-          </State>
-          <State>
-            <id>Control FlowPHP</id>
-          </State>
-          <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript function metricsJavaScript</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>Php Inspections (EA Extended)PHP</id>
-          </State>
-          <State>
-            <id>Probable bugsPHP</id>
-          </State>
-          <State>
-            <id>Probable bugsPhp Inspections (EA Extended)PHP</id>
-          </State>
-          <State>
-            <id>Type compatibilityPHP</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>PhpTooManyParametersInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
+      <profile-state />
     </entry>
   </component>
   <component name="CvsApplicationLevelConfiguration">
@@ -116,15 +72,15 @@
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="http://vastcorp.info:8080">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="-Resolved delay: {No delay date} delay: &quot;2014-01-01&quot;..Today sort by: Priority" />
-      <password>dfc7df8fdf92dfeddfe5dffedff5dfd3</password>
+      <option name="defaultSearch" value="#Unresolved" />
+      <password>dfcbdfc6dfc6dfcbdfd3dfd3</password>
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
       <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
-      <username>jbot</username>
+      <username>anzem</username>
     </YouTrack>
   </component>
   <component name="TeamCityHistory">
