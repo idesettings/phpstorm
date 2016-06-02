@@ -36,7 +36,7 @@
   <inspection_tool class="ForLoopThatDoesntUseLoopVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ForeachSourceInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="_{0,2}[a-z][A-Za-z]*" />
+    <option name="m_regex" value="_{0,2}[a-z][A-Za-z]*[0-9]*" />
     <option name="m_minLength" value="3" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
@@ -62,7 +62,7 @@
   <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="\$?[a-z][A-Za-z]+|[A-Z_]+" />
+    <option name="m_regex" value="\$?_{0,2}[A-Za-z]+[0-9]*|[A-Z_]+" />
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
@@ -90,7 +90,7 @@
     <option name="m_limit" value="3" />
   </inspection_tool>
   <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="\$?[A-Za-z]+" />
+    <option name="m_regex" value="\$?[A-Za-z]+[0-9]*" />
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
