@@ -10,12 +10,15 @@
             <id>JavaScript</id>
           </State>
           <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
             <id>Naming conventionsJavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>FunctionNamingConventionJS</id>
+            <id>ReservedWordUsedAsNameJS</id>
           </State>
         </selected-state>
       </profile-state>
