@@ -7,18 +7,30 @@
             <id />
           </State>
           <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
             <id>JavaScript validity issuesJavaScript</id>
           </State>
           <State>
-            <id>Naming conventionsJavaScript</id>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Php Inspections (EA Extended)PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPhp Inspections (EA Extended)PHP</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>ReservedWordUsedAsNameJS</id>
+            <id>InconsistentLineSeparators</id>
           </State>
         </selected-state>
       </profile-state>
