@@ -38,7 +38,6 @@
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
-    <option name="SPACE_AFTER_TYPE_COLON" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />

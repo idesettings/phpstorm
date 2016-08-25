@@ -2,26 +2,32 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e34f0140-9842-4cd1-bc72-8b04bb86b9db" name="vastcorp.info" url="http://vastcorp.info">
-        <fileTransfer host="vastcorp.info" port="22" accessType="SFTP" password="dfdcdfccdfc1dfc7dfd2dfc8dfdddffcdfe9df93df99" username="jbot">
+        <fileTransfer host="vastcorp.info" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="850a54e8-9b90-46b6-b235-cd81e66f035a" name="vs01.vast.ru" url="http://vast.ru">
-        <fileTransfer host="vast.ru" port="22" rootFolder="/home/jbot" accessType="SFTP" password="dfccdffedfcfdf9edff9dfc1df9ddffc" username="jbot">
+        <fileTransfer host="vast.ru" port="22" rootFolder="/home/jbot" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="0db00b3e-6bda-4694-aca9-0e913e7cab7c" name="vs02.vast.ru" url="http://vs02.vast.ru">
-        <fileTransfer host="vs02.vast.ru" port="22" rootFolder="/home/vast" accessType="SFTP" password="df9fdff0dfeddfdbdfebdf9bdf9adfe3df98dfeddffddfc8dfc6dffbdfc3dfe3" username="vast">
+        <fileTransfer host="vs02.vast.ru" port="22" rootFolder="/home/vast" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABkC4M+TLCxCpZ1+plQVCmVK/alWVa9JWJR4+e50MbfjD+It34DF2MeYJ0ALIkQJ6kQSbuknkDGTnm5c1R/bzVZwT+h45fZnkcSCFq0HLmDvh6Av/3z4JVr/cbvgnUgTl0ZsSZlzUExcxicUwndkltSW3Xn3cEe0HcFr0DTpm4PtST1Tlfnw+eWwfeAtpXTnh07orX0CIQpO9MiW7tTqPz29JC1tMz4MHCyMLMz7RzGxMXJ7vgdRH/4g+TDFfssbNJAve5Lz/IWq1eCWO5GWXCcPGXiXOE/eQx3AGQhPPXajd1BxoY08zjXqCgqq6H+u/3xFkB0B/7LjRWPwHA94MMCOGdOg8OG/qCpGYIKeDsPQvfnzItoegIPkWNRpJOg9fhomhaFRVbD1sNLJngFXRsBq/mZzNCV843KBp8UNyw873ucoRi7dCKRiklpAWqtQ5GOSkB0NPwMxYIXKjEPfiOIa6kUXMXSOZXnX/LuxZdrrQzxt85UzBh9KmpJMjhij3BQUeJasfl7/nnIC6rCO6fMbwnh+4veQtjX18z0An1EZUu</data>
   </component>
 </application>
