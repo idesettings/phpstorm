@@ -9,10 +9,16 @@
     <keyboard-shortcut first-keystroke="ctrl 3" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl 2" />
     <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f6" />
   </action>
   <action id="Console.Execute" />
   <action id="Console.TableResult.EditValue">
@@ -23,12 +29,23 @@
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditorChooseLookupItem" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift ctrl 4" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl 6" />
   </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -61,6 +78,9 @@
   <action id="PopupHector" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="alt n" />
