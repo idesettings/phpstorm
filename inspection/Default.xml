@@ -1,6 +1,5 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-  <option name="myLocal" value="true" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToFunctionParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -138,7 +137,6 @@
   <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThreeNegationsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="TsLint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreCatchBlocksWithComments" value="false" />
   </inspection_tool>
@@ -148,4 +146,4 @@
     <option name="myIgnoreVendorSpecificProperties" value="false" />
   </inspection_tool>
   <inspection_tool class="XHTMLIncompatabilitiesJS" enabled="true" level="WARNING" enabled_by_default="true" />
-</inspections>
+</profile>
