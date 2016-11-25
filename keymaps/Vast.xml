@@ -1,21 +1,36 @@
 <keymap version="1" name="Vast" parent="NetBeans 6.5">
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="shift alt u" />
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="DecMinAction">
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorChooseLookupItem" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorEnter" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -28,8 +43,10 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="HtmlTableCellNavigateLeft" />
   <action id="HtmlTableCellNavigateRight" />
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="IncMinAction">
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
@@ -38,6 +55,9 @@
   </action>
   <action id="LocalHistory.ShowSelectionHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="PopupHector" />
   <action id="ResizeToolWindowDown" />
