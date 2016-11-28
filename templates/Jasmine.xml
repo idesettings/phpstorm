@@ -16,7 +16,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="jso" value="spyOn($OBJECT$, '$METHOD$');$END$" description="Jasmine spyOn" toReformat="true" toShortenFQNames="true">
+  <template name="jso" value="spyOn($OBJECT$, '$METHOD$')$END$" description="Jasmine spyOn" toReformat="true" toShortenFQNames="true">
     <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
