@@ -1,0 +1,10 @@
+<templateSet group="TypeScript">
+  <template name="efunc" value="export function $NAME$($PARAMS$): $RETURN_TYPE$ {&#10;    $END$&#10;}" description="export function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
