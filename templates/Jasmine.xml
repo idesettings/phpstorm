@@ -1,0 +1,33 @@
+<templateSet group="Jasmine">
+  <template name="jdesc" value="describe('$DESCRIPTION$', () =&gt; {&#10;    $END$&#10;});" description="Jasmine describe" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jit" value="it('$DESCRIPTION$', () =&gt; {&#10;    $END$&#10;});" description="Jasmine it" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jbe" value="beforeEach(() =&gt; {&#10;    $END$&#10;});" description="Jasmine beforeEach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jso" value="spyOn($OBJECT$, '$METHOD$');$END$" description="Jasmine spyOn" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jethbcw" value="expect($METHOD$).toHaveBeenCalledWith($PARAMETERS$);$END$" description="Jasmine expect to have been called wih" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
