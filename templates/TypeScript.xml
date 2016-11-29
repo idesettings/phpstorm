@@ -13,4 +13,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="?:" value="$IF$ ? $THEN$ : $END$" description="ternary operator" toReformat="false" toShortenFQNames="true">
+    <variable name="IF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
