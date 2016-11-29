@@ -7,4 +7,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="eint" value="export interface $NAME$ {&#10;    $END$&#10;}" description="export interface" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
