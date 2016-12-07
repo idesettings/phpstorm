@@ -6,8 +6,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rxai" value="export interface $NAME$ {&#10;    type: '$TYPE$',&#10;    payload: $PAYLOAD$,&#10;}$END$" description="ngrx action interface" toReformat="false" toShortenFQNames="true">
+  <template name="rxai" value="export interface $NAME$Action extends $PARENT$Action {&#10;    type: '$TYPE$';&#10;    payload: $PAYLOAD$;&#10;}$END$" description="ngrx action interface" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARENT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PAYLOAD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
