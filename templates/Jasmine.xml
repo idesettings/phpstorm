@@ -51,4 +51,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="jetc" value="expect($ACTUAL$).toContain('$EXPECTED$');$END$" description="Jasmine expect to contain" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
