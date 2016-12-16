@@ -20,4 +20,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="efo" value="() =&gt; {}" description="empty funcition" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
