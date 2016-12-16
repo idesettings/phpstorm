@@ -58,4 +58,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="jenthbc" value="expect($EXPECTED$).not.toHaveBeenCalled();$END$" description="Jasmine expect not to have been called" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
