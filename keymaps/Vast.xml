@@ -133,4 +133,13 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="emacsIDEAs.AceJumpSelect">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="s" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="w" />
+  </action>
 </keymap>
