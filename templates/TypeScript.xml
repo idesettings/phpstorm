@@ -25,4 +25,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="switch" value="switch ($VAR$) {&#10;    $END$&#10;}" description="switch statement" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
