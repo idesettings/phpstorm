@@ -166,6 +166,9 @@
   <action id="emacsIDEAs.AceJumpDelete.Word">
     <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="w" />
   </action>
+  <action id="emacsIDEAs.AceJumpMove.Block">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="b" />
+  </action>
   <action id="emacsIDEAs.AceJumpMove.Line">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="l" />
   </action>
