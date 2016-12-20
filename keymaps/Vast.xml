@@ -139,6 +139,9 @@
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="emacsIDEAs.AceJumpCut">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="x" />
+  </action>
   <action id="emacsIDEAs.AceJumpSelect">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="s" />
   </action>
