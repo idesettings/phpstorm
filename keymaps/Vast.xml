@@ -73,6 +73,7 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="HippieBackwardCompletion" />
   <action id="HtmlTableCellNavigateLeft" />
   <action id="HtmlTableCellNavigateRight" />
   <action id="Images.Thumbnails.EnterAction" />
@@ -80,7 +81,7 @@
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
   <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift alt h" />
@@ -100,6 +101,10 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -139,13 +144,35 @@
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="emacsIDEAs.AceJumpCopy.Block">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="b" />
+  </action>
+  <action id="emacsIDEAs.AceJumpCopy.Line">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="l" />
+  </action>
+  <action id="emacsIDEAs.AceJumpCopy.Word">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="w" />
+  </action>
   <action id="emacsIDEAs.AceJumpCut">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="x" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="x" />
+  </action>
+  <action id="emacsIDEAs.AceJumpDelete.Line">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="l" />
+  </action>
+  <action id="emacsIDEAs.AceJumpDelete.ToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="e" />
+  </action>
+  <action id="emacsIDEAs.AceJumpDelete.Word">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="w" />
+  </action>
+  <action id="emacsIDEAs.AceJumpMove.Line">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="l" />
+  </action>
+  <action id="emacsIDEAs.AceJumpMove.Word">
+    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="w" />
   </action>
   <action id="emacsIDEAs.AceJumpSelect">
-    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="s" />
-  </action>
-  <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
   </action>
 </keymap>

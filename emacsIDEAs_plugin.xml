@@ -4,5 +4,6 @@
     <option name="_firstJumpForeground" value="-65024" />
     <option name="_secondJumpBackground" value="-14013910" />
     <option name="_secondJumpForeground" value="-131328" />
+    <option name="_needSelectTextAfterJump" value="false" />
   </component>
 </application>
