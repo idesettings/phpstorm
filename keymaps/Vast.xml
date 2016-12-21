@@ -150,6 +150,9 @@
   <action id="emacsIDEAs.AceJumpCopy.Line">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="l" />
   </action>
+  <action id="emacsIDEAs.AceJumpCopy.ToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="e" />
+  </action>
   <action id="emacsIDEAs.AceJumpCopy.Word">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="w" />
   </action>
