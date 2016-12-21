@@ -144,11 +144,20 @@
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="emacsIDEAs.AceJumpCopy">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
+  </action>
   <action id="emacsIDEAs.AceJumpCopy.Block">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="b" />
   </action>
+  <action id="emacsIDEAs.AceJumpCopy.Group">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="g" />
+  </action>
   <action id="emacsIDEAs.AceJumpCopy.Line">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="l" />
+  </action>
+  <action id="emacsIDEAs.AceJumpCopy.String">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
   </action>
   <action id="emacsIDEAs.AceJumpCopy.ToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="e" />
@@ -179,6 +188,6 @@
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="w" />
   </action>
   <action id="emacsIDEAs.AceJumpSelect">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
   </action>
 </keymap>
