@@ -64,7 +64,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="jsothbcw" value="spyOn($OBJECT$, '$METHOD$');&#10;expect($OBJECT$.$METHOD$).toHaveBeenCalledWith($EXPECTED$);$END$" description="Jasmine spy to have been called with" toReformat="true" toShortenFQNames="true">
+  <template name="jsothbcw" value="spyOn($OBJECT$, '$METHOD$');&#10;$END$&#10;expect($OBJECT$.$METHOD$).toHaveBeenCalledWith($EXPECTED$);" description="Jasmine spy to have been called with" toReformat="true" toShortenFQNames="true">
     <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
@@ -74,6 +74,13 @@
   </template>
   <template name="jdescw" value="describe('$DESCRIPTION$', () =&gt; {&#10;    $SELECTION$&#10;});$END$" description="Wraps selection with &quot;Jasmine describe&quot;" toReformat="true" toShortenFQNames="true">
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jsonthbc" value="spyOn($OBJECT$, '$METHOD$');&#10;$END$&#10;expect($OBJECT$.$METHOD$).not.toHaveBeenCalled();" description="Jasmine spy not to have been called" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
