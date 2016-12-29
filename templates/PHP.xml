@@ -1,5 +1,7 @@
 <templateSet group="PHP">
-  <template name="eco" value="echo '$END$';" description="'echo' statement" toReformat="true" toShortenFQNames="true" />
+  <template name="eco" value="echo '$END$';" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="tryc" value="try {&#10;    $SELECTION$&#10;} catch (Exception $ex) {&#10;    $END$&#10;}" description="try-catch block" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
