@@ -1,4 +1,5 @@
 <code_scheme name="Timelines">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>

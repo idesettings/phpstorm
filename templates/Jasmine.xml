@@ -85,4 +85,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="jetbn" value="expect($ACTUAL$).toBeNull();$END$" description="Jasmine expect to be null" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="jetbu" value="expect($ACTUAL$).toBeUndefined();$END$" description="Jasmine expect to be undefined" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
