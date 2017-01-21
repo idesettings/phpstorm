@@ -9,9 +9,9 @@
   </template>
   <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="XSL_TEXT" value="true" />
       <option name="JSP" value="true" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="COMPLETION" value="false" />
     </context>
   </template>
   <template name="??" value="&lt;?= $SELECTION$ ?&gt;$END$" description="Surround with &lt;?= ?&gt;" toReformat="false" toShortenFQNames="true">
