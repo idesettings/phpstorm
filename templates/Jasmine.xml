@@ -97,4 +97,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="jethbc" value="expect($METHOD$).toHaveBeenCalled();$END$" description="Jasmine expect to have been called" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
