@@ -8,4 +8,9 @@
     </context>
   </template>
   <template name="ext" value="exit('$END$');" toReformat="false" toShortenFQNames="true" />
+  <template name="pubf" value="public function $NAME$($PARAMS$) {&#10;&#9;$END$&#10;}" description="public function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
