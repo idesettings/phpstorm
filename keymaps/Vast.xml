@@ -2,6 +2,9 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="shift alt u" />
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
@@ -9,7 +12,6 @@
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 1" />
-    <keyboard-shortcut first-keystroke="ctrl 3" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateTODOToolWindow">
