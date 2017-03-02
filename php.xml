@@ -11,7 +11,6 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\PHP56\php.exe" id="bb860119-2767-4f8b-9b99-b1b0c235aecb" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\PHP54\php.exe" id="8687cfd7-eac6-44cc-877d-bf89c7556bb4" name="PHP 5.4" debugger_id="php.debugger.XDebug" />
       <interpreter home="docker://vast_php:latest/php" id="e911ced8-370c-44a8-b724-b0c5c355cc75" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="vast_php:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
