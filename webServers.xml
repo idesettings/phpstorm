@@ -9,8 +9,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="850a54e8-9b90-46b6-b235-cd81e66f035a" name="vs01.vast.ru" url="http://vast.ru">
-        <fileTransfer host="vast.ru" port="22" rootFolder="/home/jbot" accessType="SFTP">
+      <webServer id="850a54e8-9b90-46b6-b235-cd81e66f035a" name="vs01.vast.ru" url="http://vs01.vast.ru">
+        <fileTransfer host="vs01.vast.ru" port="22" privateKey="C:\Users\anzem\.ssh\vast" rootFolder="/home/anzem" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
