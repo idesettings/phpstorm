@@ -21,7 +21,7 @@
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
         <phpinfo binary_type="PHP" php_cli="/usr/local/bin/php" path_separator=":" version="5.5.38">
-          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-memcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/memory_limit.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-memcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pcntl.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-soap.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/error_reporting.ini, /usr/local/etc/php/conf.d/memory_limit.ini, /usr/local/etc/php/conf.d/timezone.ini, /usr/local/etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file />
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -49,7 +49,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="Europe/Moscow" />
             <configuration_option name="default_charset" value="" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -65,7 +65,7 @@
             <configuration_option name="error_append_string" value="" />
             <configuration_option name="error_log" value="" />
             <configuration_option name="error_prepend_string" value="" />
-            <configuration_option name="error_reporting" value="0" />
+            <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
             <configuration_option name="extension_dir" value="/usr/local/lib/php/extensions/no-debug-non-zts-20121212" />
@@ -177,6 +177,11 @@
             <configuration_option name="session.use_trans_sid" value="0" />
             <configuration_option name="short_open_tag" value="1" />
             <configuration_option name="smtp_port" value="25" />
+            <configuration_option name="soap.wsdl_cache" value="1" />
+            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
+            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
+            <configuration_option name="soap.wsdl_cache_limit" value="5" />
+            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="0" />
             <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
@@ -215,7 +220,7 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.idekey" value="PHPSTORM" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
@@ -227,12 +232,12 @@
             <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="10.0.75.1" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
@@ -261,7 +266,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.0">
+            <debugger_info debugger="xdebug" debugger_version="2.5.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -290,12 +295,14 @@
             <extension name="memcache" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
+            <extension name="pcntl" />
             <extension name="pcre" />
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="soap" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
