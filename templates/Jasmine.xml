@@ -110,4 +110,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="jae" value="afterEach(() =&gt; {&#10;    $END$&#10;});" description="Jasmine afterEach" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
