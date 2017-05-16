@@ -2,8 +2,8 @@
   <template name="==" value="&lt;?= $BEGIN$ ?&gt;$END$" description="Insert PHP tag &lt;?= ?&gt;" toReformat="false" toShortenFQNames="true">
     <variable name="BEGIN" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
