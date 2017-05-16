@@ -2786,14 +2786,6 @@
           <option name="groupName" value="PHP" />
           <option name="key" value="prosf" />
         </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PHP" />
-          <option name="key" value="prif" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PHP" />
-          <option name="key" value="prisf" />
-        </TemplateKey>
       </list>
     </option>
   </component>
