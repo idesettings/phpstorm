@@ -163,6 +163,9 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Upsource.CreateOrShowDiscussion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="ctrl alt c" />
