@@ -31,4 +31,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="ecl" value="export class $NAME$ {&#10;    $END$&#10;}" description="export class" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
