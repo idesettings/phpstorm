@@ -15,7 +15,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rxea" value="export interface $NAME$Action extends $BASE_ACTION$ {&#10;    type: '$TYPE$';$END$&#10;}&#10;&#10;export interface $NAME$SuccessAction extends $BASE_ACTION$ {&#10;    type: '$TYPE$_SUCCESS';&#10;}&#10;&#10;export interface $NAME$ErrorAction extends $BASE_ACTION$ {&#10;    type: '$TYPE$_ERROR';&#10;    payload: Error;&#10;}&#10;&#10;" description="ngrx effects action triple" toReformat="true" toShortenFQNames="true">
+  <template name="rxat" value="export interface $NAME$Action extends $BASE_ACTION$ {&#10;    type: '$TYPE$';$END$&#10;}&#10;&#10;export interface $NAME$SuccessAction extends $BASE_ACTION$ {&#10;    type: '$TYPE$_SUCCESS';&#10;}&#10;&#10;export interface $NAME$ErrorAction extends $BASE_ACTION$ {&#10;    type: '$TYPE$_ERROR';&#10;    payload: Error;&#10;}&#10;&#10;" description="ngrx effects action triple" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BASE_ACTION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="capitalizeAndUnderscore(NAME)" defaultValue="" alwaysStopAt="false" />
