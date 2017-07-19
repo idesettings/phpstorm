@@ -1,7 +1,4 @@
 <keymap version="1" name="Vast" parent="NetBeans 6.5">
-  <action id="AceAction">
-    <keyboard-shortcut first-keystroke="ctrl j" />
-  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 3" />
     <keyboard-shortcut first-keystroke="alt 3" />
@@ -67,6 +64,10 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="s" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -101,6 +102,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="FrameSwitchAction">
     <keyboard-shortcut first-keystroke="alt p" />
@@ -118,6 +123,7 @@
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="JustOneSpace" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
@@ -189,42 +195,21 @@
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
   <action id="emacsIDEAs.AceJump">
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
-  <action id="emacsIDEAs.AceJumpCopy">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
-  </action>
-  <action id="emacsIDEAs.AceJumpCopy.Block">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="b" />
-  </action>
-  <action id="emacsIDEAs.AceJumpCopy.Group">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="g" />
-  </action>
-  <action id="emacsIDEAs.AceJumpCopy.Line">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="l" />
-  </action>
-  <action id="emacsIDEAs.AceJumpCopy.String">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
-  </action>
-  <action id="emacsIDEAs.AceJumpCopy.ToLineEnd">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="e" />
-  </action>
-  <action id="emacsIDEAs.AceJumpCopy.Word">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="w" />
-  </action>
+  <action id="emacsIDEAs.AceJumpCopy" />
+  <action id="emacsIDEAs.AceJumpCopy.Block" />
+  <action id="emacsIDEAs.AceJumpCopy.Group" />
+  <action id="emacsIDEAs.AceJumpCopy.Line" />
+  <action id="emacsIDEAs.AceJumpCopy.String" />
+  <action id="emacsIDEAs.AceJumpCopy.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpCopy.Word" />
   <action id="emacsIDEAs.AceJumpCut">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="x" />
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="x" />
   </action>
-  <action id="emacsIDEAs.AceJumpDelete.Line">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="l" />
-  </action>
-  <action id="emacsIDEAs.AceJumpDelete.ToLineEnd">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="e" />
-  </action>
-  <action id="emacsIDEAs.AceJumpDelete.Word">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="w" />
-  </action>
+  <action id="emacsIDEAs.AceJumpDelete.Line" />
+  <action id="emacsIDEAs.AceJumpDelete.ToLineEnd" />
+  <action id="emacsIDEAs.AceJumpDelete.Word" />
   <action id="emacsIDEAs.AceJumpMove.Block">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="b" />
   </action>
@@ -234,7 +219,5 @@
   <action id="emacsIDEAs.AceJumpMove.Word">
     <keyboard-shortcut first-keystroke="ctrl l" second-keystroke="w" />
   </action>
-  <action id="emacsIDEAs.AceJumpSelect">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl k" />
-  </action>
+  <action id="emacsIDEAs.AceJumpSelect" />
 </keymap>
