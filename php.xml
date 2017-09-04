@@ -674,7 +674,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="e911ced8-370c-44a8-b724-b0c5c355cc75" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/html/tests/unit/phpunit.dev.xml" custom_loader_path="/var/www/html/vendor/autoload.php" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="e911ced8-370c-44a8-b724-b0c5c355cc75" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/html/application/configs/phpunit.dev.xml" custom_loader_path="/var/www/html/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
