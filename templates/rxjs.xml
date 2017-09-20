@@ -1,5 +1,5 @@
 <templateSet group="rxjs">
-  <template name="rxdolog" value=".do(val =&gt; {&#10;    console.log(val);&#10;})&#10;" description="RxJS operator do with log" toReformat="true" toShortenFQNames="true">
+  <template name="rxdolog" value=".do(v =&gt; console.log(v))" description="RxJS operator do with log" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
