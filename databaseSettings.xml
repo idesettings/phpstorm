@@ -46,6 +46,11 @@
           <record-format prefix="||" suffix="||" nullText="NULL" quotationPolicy="as needed" valueSeparator="||" recordSeparator="&#10;" trimWhitespace="true" />
         </header>
       </csv-format>
+      <csv-format name="Comma Separated Values No Quote">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;" />
+        </data>
+      </csv-format>
     </csv-formats>
   </component>
 </application>
