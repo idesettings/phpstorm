@@ -42,6 +42,10 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl altGraph c" />
+  </action>
   <action id="DecMinAction">
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
