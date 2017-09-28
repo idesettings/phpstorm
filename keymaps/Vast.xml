@@ -199,6 +199,7 @@
   <action id="Upsource.CreateOrShowDiscussion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="ctrl altGraph c" />
   </action>
   <action id="Upsource.NewDiscussion">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
