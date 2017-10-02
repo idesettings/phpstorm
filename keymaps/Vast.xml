@@ -150,6 +150,9 @@
   </action>
   <action id="PopupHector" />
   <action id="Replace" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunClass">
