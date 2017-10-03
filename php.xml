@@ -14,7 +14,7 @@
       <interpreter home="C:\PHP54\php.exe" id="8687cfd7-eac6-44cc-877d-bf89c7556bb4" name="PHP 5.4" debugger_id="php.debugger.XDebug" />
       <interpreter home="docker://vast_php:latest/php" id="e911ced8-370c-44a8-b724-b0c5c355cc75" name="Docker PHP" debugger_id="php.debugger.XDebug">
         <configuration_options>
-          <configuration_option name="xdebug.remote_host" value="10.0.75.1" />
+          <configuration_option name="xdebug.remote_host" value="172.17.0.1" />
         </configuration_options>
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="vast_php:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
@@ -24,7 +24,7 @@
     <phpInfoCache>
       <interpreter name="Docker PHP">
         <phpinfo binary_type="PHP" php_cli="/usr/local/bin/php" path_separator=":" version="5.6.30">
-          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-dbase.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-memcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pcntl.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-soap.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini, /usr/local/etc/php/conf.d/error_reporting.ini, /usr/local/etc/php/conf.d/memory_limit.ini, /usr/local/etc/php/conf.d/timezone.ini, /usr/local/etc/php/conf.d/xdebug.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-dbase.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-mcrypt.ini, /usr/local/etc/php/conf.d/docker-php-ext-memcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pcntl.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-soap.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini, /usr/local/etc/php/conf.d/error_reporting.ini, /usr/local/etc/php/conf.d/memory_limit.ini, /usr/local/etc/php/conf.d/timezone.ini, /usr/local/etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file />
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -113,6 +113,8 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
+            <configuration_option name="mcrypt.algorithms_dir" value="" />
+            <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memcache.allow_failover" value="1" />
             <configuration_option name="memcache.chunk_size" value="8192" />
             <configuration_option name="memcache.default_port" value="11211" />
@@ -120,7 +122,7 @@
             <configuration_option name="memcache.hash_function" value="crc32" />
             <configuration_option name="memcache.hash_strategy" value="standard" />
             <configuration_option name="memcache.max_failover_attempts" value="20" />
-            <configuration_option name="memory_limit" value="512M" />
+            <configuration_option name="memory_limit" value="1G" />
             <configuration_option name="mysqlnd.collect_memory_statistics" value="0" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
@@ -229,7 +231,7 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="PHPSTORM" />
+            <configuration_option name="xdebug.idekey" value="" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
@@ -302,6 +304,7 @@
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mcrypt" />
             <extension name="memcache" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
