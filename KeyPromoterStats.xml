@@ -16,6 +16,7 @@
         <entry key="'Ctrl+Shift+F5' or 'Alt+Shift+F5'" value="1" />
         <entry key="'Delete'" value="1" />
         <entry key="'Enter'" value="2" />
+        <entry key="'F3' or 'Down' or 'Ctrl+J' or 'Enter'" value="1" />
         <entry key="'Shift+F5' or 'Ctrl+Shift+Delete'" value="5" />
         <entry key="'Shift+F6'" value="2" />
       </map>
