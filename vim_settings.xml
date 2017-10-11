@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507709465138">
+      <file name="/Dummy.txt" timestamp="1507709543067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="dbtable:/b56ab86/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/vast.public.order" timestamp="1507696112119">
         <mark key="'" line="285" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1507699288091">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1507699859083">
         <mark key="[" line="27" column="0" />
@@ -22,12 +19,25 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1507699276364">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" timestamp="1507709627940">
+        <mark key="'" line="390" column="28" />
       </file>
       <file name="/HostController.php" timestamp="1507700257411" />
       <file name="$USER_HOME$/projects/vast/application/models/Money.php" timestamp="1507700718606">
-        <mark key="'" line="272" column="0" />
+        <mark key="'" line="271" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1507699288091">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1507711276297">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="78" column="61" />
+        <mark key="]" line="79" column="13" />
+        <mark key="^" line="79" column="13" />
+        <mark key="." line="79" column="13" />
+      </file>
+      <file name="/dummy.sql" timestamp="1507699276364">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -41,7 +51,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/projects/vast/application/models/Money.php" />
       <jump line="271" column="0" filename="$USER_HOME$/projects/vast/application/models/Money.php" />
       <jump line="9" column="190" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" />
+      <jump line="290" column="0" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="399" column="27" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
+      <jump line="396" column="16" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
+      <jump line="390" column="28" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
+      <jump line="70" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -111,7 +125,7 @@ update gds_product_notinstock set day1 = day;</text>
       </history-cmd>
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -119,6 +133,9 @@ update gds_product_notinstock set day1 = day;</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
@@ -130,6 +147,9 @@ update gds_product_notinstock set day1 = day;</text>
         <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
