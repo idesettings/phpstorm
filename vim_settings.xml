@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507709543067">
+      <file name="/Dummy.txt" timestamp="1507774118296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="dbtable:/b56ab86/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/vast.public.order" timestamp="1507696112119">
         <mark key="'" line="285" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task/Address/UpdateKladr.php" timestamp="1507777611268">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="1" />
+        <mark key="^" line="61" column="1" />
+        <mark key="." line="61" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1507699859083">
         <mark key="[" line="27" column="0" />
@@ -29,13 +35,17 @@
       <file name="/a.sql" timestamp="1507699288091">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/StockdayDaily.php" timestamp="1507771196610">
+        <mark key="[" line="107" column="21" />
+        <mark key="]" line="107" column="59" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1507711967029">
         <mark key="'" line="70" column="21" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1507699276364">
+      <file name="/dummy.sql" timestamp="1507775199014">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -57,14 +67,14 @@
       <jump line="70" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">R1JPVVAgQlkgc2t1LCBwcm9kdWN0LCBzdXBwbGllciwgc3RvY2ssIG9ud2F5LCBvd25lcl9pZAo=</text>
+      <register name="0" type="4">
+        <text>fillTableGdsProductNotinstockAggregated</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fillTableGdsProductNotinstockAggregated</text>
       </register>
       <register name="2" type="4">
         <text>// {&quot;success&quot;:false,&quot;error&quot;:&quot;Fatal error: Call to a member function getFirstName() on null at \/home\/teamcity\/deploy\/2032\/application\/modules\/shop\/mappers\/View\/OrderRecipient.php:16&quot;}
@@ -107,7 +117,7 @@ drop INDEX tmp_index;
 update gds_product_notinstock set day1 = day;</text>
       </register>
       <register name=":" type="4">
-        <text>m+1</text>
+        <text>h ctrl+d</text>
       </register>
       <register name="-" type="4">
         <text>1146, 1087, 1, '2431316760', false, 35, '', 'Поручень на присосках для ванной.', 'поручень-присоска', 2289</text>
@@ -129,10 +139,11 @@ update gds_product_notinstock set day1 = day;</text>
       </history-search>
       <history-cmd>
         <entry>m+1</entry>
+        <entry>h ctrl+d</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
