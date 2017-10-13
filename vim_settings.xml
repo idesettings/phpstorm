@@ -13,8 +13,13 @@
         <mark key="^" line="61" column="1" />
         <mark key="." line="37" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5891ce4c-339a-47bf-920d-b101b9fc4210/console.sql" timestamp="1507882137512">
-        <mark key="[" line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5891ce4c-339a-47bf-920d-b101b9fc4210/console.sql" timestamp="1507884239665">
+        <mark key="a" line="18" column="11" />
+        <mark key="'" line="36" column="32" />
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="/HostController.php" timestamp="1507700257411" />
       <file name="/StockdayDaily.php" timestamp="1507771196610">
@@ -28,7 +33,7 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1507882729664">
+      <file name="/dummy.sql" timestamp="1507885004668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -118,51 +123,50 @@
       <jump line="20" column="0" filename="$USER_HOME$/projects/vast/application/modules/shop/controllers/Abstract.php" />
       <jump line="162" column="0" filename="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/vast/docker-compose.yml" />
+      <jump line="36" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5891ce4c-339a-47bf-920d-b101b9fc4210/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>тогда</text>
       </register>
       <register name="-" type="4">
-        <text>:o</text>
+        <text>carrier</text>
       </register>
       <register name="/" type="4">
         <text>hel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAuLi92YXN0LXZ1ZTovdmFyL3d3dy92YXN0LXZ1ZQo=</text>
+        <text encoding="base64">REVMRVRFIGZyb20gZGVsaXZlcnlfem9uZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAuLi92YXN0LXZ1ZTovdXNyL3NoYXJlL25naW54L3d3dy92YXN0LXZ1ZTpybzpybwogICAgZGVwZW5kc19vbjoKICAgICAgLSBwaHAKICAgICAgLSBtZW1jYWNoZWQKCg==</text>
+        <text encoding="base64">REVMRVRFIGZyb20gZGVsaXZlcnlfem9uZTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLSAuLi92YXN0LXZ1ZTovdXNyL3NoYXJlL25naW54L3d3dy92YXN0LXZ1ZTpybzpybwogICAgZGVwZW5kc19vbjoKICAgICAgLSBwaHAKICAgICAgLSBtZW1jYWNoZWQKCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">YWRkU2NyaQphc3NpZ24oCj0+ICR0aGkKPT4gJHRoaQpoZWFkVGl0</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">0JjRgdC/0YDQsNCy0LvQtdC90LjQtdCY0YHQv9GA0LDQstC70LXQvdC40LUg0L7RiNC40LHQutC4INC/0YDQvtCy0LXRgNGMLCDQv9C+0LbQsNC70YPQudGB0YLQsCwg0YfRgtC+INC10YHQu9C4INGDINC/0L7Qu9GM0LfQvtCy0LDRgtC10LvRjyDRgdGC0LDRgNGL0Lkg0L/QsNGA0L7Qu9GMLCDRgtGD0YIg0LLQtdC90ZHRgtGB0Y8gdHJ1ZSAo0L/QsNGA0L7Qu9GMINGD0YHRgtCw0L3QvtCy0LvQtdC9KSDQvtGI0LjQsdC60Lgg0L/RgNC+0LLQtdGA0Yws0JjRgdC/0YDQsNCy0LvQtdC90LjQtSDQvtGI0LjQsdC60Lgg0L/RgNC+0LLQtdGA0YwsINC/0L7QttCw0LvRg9C50YHRgtCwLCDRh9GC0L4g0LXRgdC70Lgg0YMg0L/QvtC70YzQt9C+0LLQsNGC0LXQu9GPINGB0YLQsNGA0YvQuSDQv9Cw0YDQvtC70YwsINGC0YPRgiDQstC10L3RkdGC0YHRjyB0cnVlICjQv9Cw0YDQvtC70Ywg0YPRgdGC0LDQvdC+0LLQu9C10L0pINC/0L7QttCw0LvRg9C50YHRgtCwLCDRh9GC0L4g0LXRgdC70Lgg0YMg0L/QvtC70YzQt9C+0LLQsNGC0LXQu9GPINGB0YLQsNGA0YvQuSDQv9Cw0YDQvtC70YwsINGC0YPRgiDQstC10L3RkdGC0YHRjyB0cnVlICjQv9Cw0YDQvtC70Ywg0YPRgdGC0LDQvdC+0LLQu9C10L0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">0J3QsNGB0YLRgNC+0LnQutC4INC00LvRjyBQSG5pdCBDb2RlIENvdmVyYWdlCg==</text>
+        <text encoding="base64">0JjRgdC/0YDQsNCy0LvQtdC90LjQtdCY0YHQv9GA0LDQstC70LXQvdC40LUg0L7RiNC40LHQutC4INC/0YDQvtCy0LXRgNGMLCDQv9C+0LbQsNC70YPQudGB0YLQsCwg0YfRgtC+INC10YHQu9C4INGDINC/0L7Qu9GM0LfQvtCy0LDRgtC10LvRjyDRgdGC0LDRgNGL0Lkg0L/QsNGA0L7Qu9GMLCDRgtGD0YIg0LLQtdC90ZHRgtGB0Y8gdHJ1ZSAo0L/QsNGA0L7Qu9GMINGD0YHRgtCw0L3QvtCy0LvQtdC9KSDQvtGI0LjQsdC60Lgg0L/RgNC+0LLQtdGA0Yws0JjRgdC/0YDQsNCy0LvQtdC90LjQtSDQvtGI0LjQsdC60Lgg0L/RgNC+0LLQtdGA0YwsINC/0L7QttCw0LvRg9C50YHRgtCwLCDRh9GC0L4g0LXRgdC70Lgg0YMg0L/QvtC70YzQt9C+0LLQsNGC0LXQu9GPINGB0YLQsNGA0YvQuSDQv9Cw0YDQvtC70YwsINGC0YPRgiDQstC10L3RkdGC0YHRjyB0cnVlICjQv9Cw0YDQvtC70Ywg0YPRgdGC0LDQvdC+0LLQu9C10L0pINC/0L7QttCw0LvRg9C50YHRgtCwLCDRh9GC0L4g0LXRgdC70Lgg0YMg0L/QvtC70YzQt9C+0LLQsNGC0LXQu9GPINGB0YLQsNGA0YvQuSDQv9Cw0YDQvtC70YwsINGC0YPRgiDQstC10L3RkdGC0YHRjyB0cnVlICjQv9Cw0YDQvtC70Ywg0YPRgdGC0LDQvdC+0LLQu9C10L0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">0J3QsNGB0YLRgNC+0LnQutC4INC00LvRjyBQSG5pdCBDb2RlIENvdmVyYWdlCg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>// {&quot;success&quot;:false,&quot;error&quot;:&quot;Fatal error: Call to a member function getFirstName() on null at \/home\/teamcity\/deploy\/2032\/application\/modules\/shop\/mappers\/View\/OrderRecipient.php:16&quot;}
-// Request URL:http://shop.vastcorp.info/shop/checkout/accept
-// корзина 978</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -179,7 +183,6 @@
         <entry>hel</entry>
       </history-search>
       <history-cmd>
-        <entry>open ~/.ideavimrc</entry>
         <entry>read ~/.ideavimrc</entry>
         <entry>cb</entry>
         <entry>set cb</entry>
@@ -199,6 +202,7 @@
         <entry>copy11</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
