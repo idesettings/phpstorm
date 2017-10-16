@@ -90,9 +90,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="49" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" timestamp="1508126127414">
-        <mark key="'" line="1" column="46" />
-        <mark key="[" line="9" column="12" />
+      <file name="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" timestamp="1508132746601">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="5" column="20" />
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
@@ -169,6 +169,9 @@
       <jump line="31" column="23" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="27" column="14" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="9" column="22" filename="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" />
+      <jump line="4" column="35" filename="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -184,7 +187,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>0)</text>
+        <text>err</text>
       </register>
       <register name="0" type="4">
         <text>'work/jbot-ins-grade.json'</text>
@@ -227,9 +230,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0)</last-search>
+      <last-search>err</last-search>
       <last-offset />
-      <last-pattern>0)</last-pattern>
+      <last-pattern>err</last-pattern>
       <last-replace>avg</last-replace>
       <last-substitute>sum</last-substitute>
       <last-dir>1</last-dir>
@@ -256,6 +259,7 @@
         <entry>\.5</entry>
         <entry>act</entry>
         <entry>0)</entry>
+        <entry>err</entry>
       </history-search>
       <history-cmd>
         <entry>copy11</entry>
