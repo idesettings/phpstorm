@@ -14,6 +14,14 @@
         <mark key="." line="37" column="74" />
       </file>
       <file name="$USER_HOME$/projects/goals/src/store.js" timestamp="1508121367599" />
+      <file name="$USER_HOME$/projects/goals/api/fns/ira-ins-grade.js" timestamp="1508135662733">
+        <mark key="'" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/goals/db/work/occ-finish-date.json" timestamp="1508135012417">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5891ce4c-339a-47bf-920d-b101b9fc4210/console.sql" timestamp="1507884239665">
         <mark key="a" line="18" column="11" />
         <mark key="'" line="36" column="32" />
@@ -22,23 +30,31 @@
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/goals/db/work/jbot-ins-grade.json" timestamp="1508133896980">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="28" />
+      </file>
       <file name="/StockdayDaily.php" timestamp="1507771196610">
         <mark key="[" line="107" column="21" />
         <mark key="]" line="107" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1508124875449">
-        <mark key="'" line="68" column="3" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="31" />
-        <mark key="^" line="106" column="68" />
-        <mark key="." line="106" column="68" />
+      <file name="/JavaScript Console" timestamp="1508133359868">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1508133387239" />
       <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/Abstract.php" timestamp="1507793368153">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="13" column="8" />
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/goals/api/fns/get-last-update-json.js" timestamp="1508133332378">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
       </file>
       <file name="/dummy.sql" timestamp="1507885004668">
         <mark key="[" line="0" column="0" />
@@ -90,19 +106,18 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="49" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" timestamp="1508132746601">
+      <file name="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" timestamp="1508133641438">
         <mark key="'" line="5" column="8" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" timestamp="1508131488471">
-        <mark key="'" line="27" column="14" />
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
-        <mark key="^" line="42" column="22" />
+      <file name="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" timestamp="1508134073287">
+        <mark key="'" line="9" column="45" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507793868901">
         <mark key="[" line="0" column="0" />
@@ -124,6 +139,12 @@
         <mark key="]" line="159" column="12" />
         <mark key="^" line="138" column="40" />
         <mark key="." line="159" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/goals/db/work/occ-ready-percent.json" timestamp="1508135063021">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -161,89 +182,96 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="6" column="40" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="7" column="3" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="15" column="18" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="18" column="43" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="12" column="20" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="31" column="23" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="27" column="14" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
       <jump line="9" column="22" filename="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" />
       <jump line="4" column="35" filename="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" />
       <jump line="5" column="8" filename="$USER_HOME$/projects/goals/api/fns/get-avg-history-values-before.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/goals/api/fns/get-last-update-json.js" />
+      <jump line="7" column="9" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="8" column="39" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="9" column="25" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="19" column="37" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="13" column="33" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="12" column="5" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="11" column="35" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="10" column="45" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="102" column="22" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="108" column="3" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="123" column="4" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="140" column="19" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="106" column="22" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="143" column="6" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/goals/api/fns/ira-ins-grade.js" />
+      <jump line="8" column="19" filename="$USER_HOME$/projects/goals/api/fns/ira-ins-grade.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJkZXNjcmlwdGlvbiI6ICLQodGA0LXQtNC90Y/RjyDQvtGG0LXQvdC60LAg0LjQvdGB0L/QtdC60YLQvtGA0L7QsiDQt9CwINC/0L7RgdC70LXQtNC90LjQtSA5MCDQtNC90LXQuSIK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>err</text>
+        <text>jbot</text>
       </register>
-      <register name="0" type="4">
-        <text>'work/jbot-ins-grade.json'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogItCh0YDQtdC00L3Rj9GPINC+0YbQtdC90LrQsCDQuNC90YHQv9C10LrRgtC+0YDQvtCyINC30LAg0L/QvtGB0LvQtdC00L3QuNC1IDkwINC00L3QtdC5Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoZGlmZiA8PSAwLjUpIHsKICAgIHJldHVybiAzOwogIH0gZWxzZSBpZiAoZGlmZiA8PSA1KSB7CiAgICByZXR1cm4gMjsKICB9IGVsc2UgaWYgKGRpZmYgPD0gMjApIHsKICAgIHJldHVybiAxOwogIH0gZWxzZSB7CiAgICByZXR1cm4gMDsKICB9Cn07Cgpjb25zdCBhY3R1YWxpdHlGbiA9ICh0LCBsYXN0VXBkYXRlKSA9PiB7CiAgY29uc3QgZGlmZiA9IGRheXModCAtIGxhc3RVcGRhdGUpOwogIGlmIChkaWZmIDw9IDApIHsKICAgIHJldHVybiAyOwogIH0gZWxzZSBpZiAoZGlmZiA8PSA1KSB7CiAgICByZXR1cm4gMTsKICB9IGVsc2UgewogICAgcmV0dXJuIDA7CiAgfQp9Owo=</text>
+        <text encoding="base64">ICAgICJkZXNjcmlwdGlvbiI6ICLQodGA0LXQtNC90Y/RjyDQvtGG0LXQvdC60LAg0LjQvdGB0L/QtdC60YLQvtGA0L7QsiDQt9CwINC/0L7RgdC70LXQtNC90LjQtSA5MCDQtNC90LXQuSIK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgcmV0dXJuIFByb21pc2UKICAgIC5hbGwoCiAgICAgIGF2Zyh0LCAnd29yay9qYm90LWlucy1ncmFkZS5qc29uJyksCiAgICAgIGxhc3RVcGRhdGUoJ3dvcmsvamJvdC1pbnMtZ3JhZGUuanNvbicpLAogICAgKQogICAgLnRoZW4oKFtyZWZhY3RvclRpbWUsIG92ZXJhbGxUaW1lLCBsYXN0VXBkYXRlMSwgbGFzdFVwZGF0ZTJdKSA9PiB7CiAgICAgIGNvbnN0IHBsYW4gPSAzMDsKICAgICAgY29uc3QgZmFjdCA9IE1hdGgucm91bmQocmVmYWN0b3JUaW1lIC8gb3ZlcmFsbFRpbWUgKiAxMDApOwogICAgICByZXR1cm4gewogICAgICAgIHBsYW46IHBsYW4sCiAgICAgICAgZmFjdDogZmFjdCwKICAgICAgICBxdWFsaXR5OiBxdWFsaXR5Rm4ocGxhbiwgZmFjdCksCiAgICAgICAgYWN0dWFsaXR5OiBhY3R1YWxpdHlGbih0LCBNYXRoLm1pbihsYXN0VXBkYXRlMSwgbGFzdFVwZGF0ZTIpKSwKICAgICAgfQogICAgfSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Promise
-    .all([
-      sum(t, 'work/refactor-time.json'),
-      sum(t, 'work/overall-time.json'),
-      lastUpdate('work/refactor-time.json'),
-      lastUpdate('work/overall-time.json'),
-    ])</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICIxNTA4MTM0OTY0MjI1IjogewogICAgICAidmFsdWUiOiAKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUHJvbWlzZS5yZXNvbHZlKDE1MDgxMjQ2MjQxOTQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYW56ZW0gb24gMTYuMTAuMTcuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgUHJvbWlzZS5yZXNvbHZlKDEpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REVMRVRFIGZyb20gZGVsaXZlcnlfem9uZTsK</text>
+        <text encoding="base64">ICAgICAgUHJvbWlzZS5yZXNvbHZlKDEpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAuLi92YXN0LXZ1ZTovdXNyL3NoYXJlL25naW54L3d3dy92YXN0LXZ1ZTpybzpybwogICAgZGVwZW5kc19vbjoKICAgICAgLSBwaHAKICAgICAgLSBtZW1jYWNoZWQKCg==</text>
+        <text encoding="base64">ICAgIHJlc29sdmUoMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>err</last-search>
+      <last-search>jbot</last-search>
       <last-offset />
-      <last-pattern>err</last-pattern>
-      <last-replace>avg</last-replace>
-      <last-substitute>sum</last-substitute>
+      <last-pattern>jbot</last-pattern>
+      <last-replace>ira</last-replace>
+      <last-substitute>jbot</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create index</entry>
-        <entry>I</entry>
-        <entry>hel</entry>
-        <entry>Db</entry>
         <entry>nohl</entry>
         <entry>Table</entry>
         <entry>доволь</entry>
@@ -260,14 +288,12 @@
         <entry>act</entry>
         <entry>0)</entry>
         <entry>err</entry>
+        <entry>)</entry>
+        <entry>Доволь</entry>
+        <entry>Довольн</entry>
+        <entry>jbot</entry>
       </history-search>
       <history-cmd>
-        <entry>copy11</entry>
-        <entry>q</entry>
-        <entry>qa</entry>
-        <entry>vimgrep</entry>
-        <entry>%s/Table//n</entry>
-        <entry>hlsearch</entry>
         <entry>hl</entry>
         <entry>set hlsearch</entry>
         <entry>hls</entry>
@@ -276,11 +302,17 @@
         <entry>%y</entry>
         <entry>%d</entry>
         <entry>re</entry>
-        <entry>reg</entry>
         <entry>1s/sum/avg/g</entry>
         <entry>1s/sum/avg/gn</entry>
         <entry>set nohlsearch</entry>
         <entry>nohl</entry>
+        <entry>reg</entry>
+        <entry>wa</entry>
+        <entry>qa</entry>
+        <entry>c107</entry>
+        <entry>copy107</entry>
+        <entry>jumps</entry>
+        <entry>%s//ira</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
