@@ -29,6 +29,13 @@
       <file name="$USER_HOME$/projects/goals/api/fns/ira-ins-grade.js" timestamp="1508135662733">
         <mark key="'" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" timestamp="1508206045608">
+        <mark key="'" line="21" column="36" />
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="22" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/goals/db/work/occ-finish-date.json" timestamp="1508135012417">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
@@ -51,13 +58,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1508140630104">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1508140379355">
-        <mark key="'" line="146" column="3" />
-        <mark key="[" line="146" column="3" />
-        <mark key="]" line="146" column="15" />
-        <mark key="." line="153" column="143" />
-        <mark key="^" line="152" column="17" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1508133387239" />
       <file name="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" timestamp="1508137847667">
@@ -172,9 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/projects/vast/application/models/Money.php" />
-      <jump line="271" column="0" filename="$USER_HOME$/projects/vast/application/models/Money.php" />
-      <jump line="9" column="190" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" />
       <jump line="290" column="0" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="399" column="27" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="396" column="16" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
@@ -272,25 +269,28 @@
       <jump line="10" column="2" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="18" column="8" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="390" column="30" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" />
+      <jump line="21" column="36" filename="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>)</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mean</text>
+        <text>result</text>
       </register>
       <register name="0" type="4">
-        <text>1508135733224</text>
+        <text>date('2017-09-01')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG93blBhcmFtID0gOwo=</text>
@@ -347,13 +347,13 @@
         <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
-      <last-search>mean</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>mean</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>ownParam</last-replace>
       <last-substitute>result</last-substitute>
       <last-dir>1</last-dir>
@@ -361,12 +361,10 @@
     </search>
     <history>
       <history-search>
-        <entry>Доволь</entry>
         <entry>Довольн</entry>
         <entry>jbot</entry>
         <entry>\v(serg|jbot)</entry>
         <entry>Быстр</entry>
-        <entry>serg</entry>
         <entry>to</entry>
         <entry>asStr</entry>
         <entry>3</entry>
@@ -377,13 +375,14 @@
         <entry encoding="base64">XDwxNTA4MTM1NzMzMjI0XD4=</entry>
         <entry>ret</entry>
         <entry>null</entry>
-        <entry>result</entry>
         <entry>ownP</entry>
         <entry>}</entry>
         <entry>mean</entry>
+        <entry>serg</entry>
+        <entry>17</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
-        <entry>nohl</entry>
         <entry>c107</entry>
         <entry>copy107</entry>
         <entry>jumps</entry>
@@ -403,6 +402,7 @@
         <entry>m-4</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
