@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="dbtable:/b56ab86/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/vast.public.order" timestamp="1507696112119">
-        <mark key="'" line="285" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task/Address/UpdateKladr.php" timestamp="1507777797967">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="37" column="71" />
@@ -26,8 +23,10 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/ira-ins-grade.js" timestamp="1508135662733">
-        <mark key="'" line="8" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1508741730308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" timestamp="1508208127231">
         <mark key="'" line="8" column="52" />
@@ -36,6 +35,11 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/goals/db/work/occ-finish-date.json" timestamp="1508135012417">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" timestamp="1508206936278">
         <mark key="'" line="18" column="8" />
         <mark key="[" line="42" column="6" />
@@ -43,10 +47,11 @@
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/jbot-theor-level.js" timestamp="1508207804318">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+      <file name="$USER_HOME$/projects/goals/api/fns/jbot-theor-level.js" timestamp="1508208402156">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="20" column="38" />
       </file>
       <file name="$USER_HOME$/projects/goals/db/work/ira-theor-level.json" timestamp="1508206422579">
@@ -61,9 +66,6 @@
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1508140630104">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1508207997222">
         <mark key="'" line="166" column="41" />
@@ -93,6 +95,11 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
+      <file name="/dummy.sql" timestamp="1508741698517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1508143407180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
@@ -102,24 +109,35 @@
       <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Shop.php" timestamp="1508143106327">
         <mark key="'" line="47" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1507699859083">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/goals/db/work/ira-vast-level.json" timestamp="1508207730964">
         <mark key="[" line="4" column="96" />
         <mark key="]" line="4" column="102" />
         <mark key="." line="4" column="102" />
         <mark key="^" line="4" column="102" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" timestamp="1508208178638">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="52" />
+      <file name="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" timestamp="1508208369688">
+        <mark key="'" line="34" column="2" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/projects/vast/public/vue/checkout/test.html" timestamp="1507880793743">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" timestamp="1508741841246">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" timestamp="1508204773195">
         <mark key="'" line="390" column="30" />
@@ -128,12 +146,11 @@
         <mark key="." line="397" column="7" />
         <mark key="^" line="397" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/to-days.fn.js" timestamp="1508136967580">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/projects/vast/application/controllers/WmsController.php" timestamp="1508741958370">
+        <mark key="'" line="1598" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/models/Money.php" timestamp="1507700718606">
-        <mark key="'" line="271" column="0" />
+      <file name="$USER_HOME$/projects/vast/application/modules/delivery/models/Carrier.php" timestamp="1508741802103">
+        <mark key="'" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/fns/date-utils.js" timestamp="1508137620929">
         <mark key="'" line="13" column="20" />
@@ -149,14 +166,16 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508472466786">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/goals/db/work/serg-vast-level.json" timestamp="1508207757388">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
-      </file>
-      <file name="/OrderCustomer.php" timestamp="1507788849223">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1507880272053">
         <mark key="'" line="162" column="0" />
@@ -173,19 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="39" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="9" column="25" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="19" column="37" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="13" column="33" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="12" column="5" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="11" column="35" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="10" column="45" filename="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="102" column="22" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="108" column="3" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/goals/api/fns/ira-ins-grade.js" />
       <jump line="8" column="19" filename="$USER_HOME$/projects/goals/api/fns/ira-ins-grade.js" />
       <jump line="125" column="19" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="6" column="50" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
@@ -273,54 +279,73 @@
       <jump line="167" column="41" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="88" column="16" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="19" column="32" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="28" column="2" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="32" column="2" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" />
+      <jump line="19" column="31" filename="$USER_HOME$/projects/goals/api/fns/jbot-theor-level.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/projects/vast/application/modules/delivery/models/Carrier.php" />
+      <jump line="1618" column="0" filename="$USER_HOME$/projects/vast/application/controllers/WmsController.php" />
+      <jump line="1632" column="33" filename="$USER_HOME$/projects/vast/application/controllers/WmsController.php" />
+      <jump line="1598" column="27" filename="$USER_HOME$/projects/vast/application/controllers/WmsController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>serg</text>
+        <text>YW364B</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>serg</text>
+        <text>YW364B</text>
       </register>
       <register name="/" type="4">
-        <text>ser</text>
+        <text>carr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInRpdGxlIjogItCf0YDQvtGG0LXQvdGCINC30L3QsNC90LjRjyBWYXN0ICjRgtC10YHRgiDQv9C+INGC0LDQsdC70LjRhtCw0LwpIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gcXVhbGl0eUZuKHAsIGYpIHsKICBjb25zdCBkaWZmID0gcCAtIGY7CiAgaWYgKGRpZmYgPD0gMCkgewogICAgcmV0dXJuIDM7CiAgfSBlbHNlIGlmIChkaWZmIDw9IDUpIHsKICAgIHJldHVybiAyOwogIH0gZWxzZSBpZiAoZGlmZiA8PSAxMCkgewogICAgcmV0dXJuIDE7CiAgfSBlbHNlIHsKICAgIHJldHVybiAwOwogIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImRpcmVjdENvbnRyb2wiOiBmYWxzZQo=</text>
+        <text encoding="base64">MjAwMjgK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgInRpdGxlIjogItCX0L3QsNC90LjQtSDQodC10YDRkdC20LXQuSDRgdC40YHRgtC10LzRiyBWYXN0INCyINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjQuCDRgSDQt9Cw0YDQv9C70LDRgtC90L7QuSDRgdC10YLQutC+0LkiLAo=</text>
+      <register name="2" type="4">
+        <text>function qualityFn(p, f) {
+  const diff = Math.max(Math.ceil(p - f), 0);
+  switch (diff) {
+    case 0:
+      return 3;
+    case 1:
+      return 2;
+    case 2:
+      return 1;
+    default:
+      return 0;
+  }
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3dpdGNoIChkaWZmKSB7CiAgICBjYXNlIDA6CiAgICAgIHJldHVybiAzOwogICAgY2FzZSAxOgogICAgICByZXR1cm4gMjsKICAgIGNhc2UgMjoKICAgICAgcmV0dXJuIDE7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gMDsKICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG93blBhcmFtID0gOwo=</text>
+        <text encoding="base64">ICAgICAgImRpcmVjdENvbnRyb2wiOiBmYWxzZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      title: 'Средневзвешенное качество управления по влияющим целям',
-      code: 'weighted-mean',
-      value: {
-        plan: 3,
-        fact: means.quality,
-        quality: Math.floor(means.quality),
-        actuality: Math.floor(means.actuality),
-      }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgInRpdGxlIjogItCX0L3QsNC90LjQtSDQodC10YDRkdC20LXQuSDRgdC40YHRgtC10LzRiyBWYXN0INCyINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjQuCDRgSDQt9Cw0YDQv9C70LDRgtC90L7QuSDRgdC10YLQutC+0LkiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG93blBhcmFtID0gOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text>{
       title: 'Средневзвешенное качество управления по влияющим целям',
       code: 'weighted-mean',
@@ -332,29 +357,17 @@
       }
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>goals[goalId].param = {
-    title: 'Средневзвешенное качество управления по влияющим целям',
-    code: 'weighted-mean',
-    value: {
-      plan: 3,
-      fact: means.quality,
-      quality: Math.floor(means.quality),
-      actuality: Math.floor(means.actuality),
-    }
-  };</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ser</last-search>
+      <last-search>carr</last-search>
       <last-offset />
-      <last-pattern>ser</last-pattern>
+      <last-pattern>carr</last-pattern>
       <last-replace>ownParam</last-replace>
       <last-substitute>result</last-substitute>
       <last-dir>1</last-dir>
@@ -362,12 +375,9 @@
     </search>
     <history>
       <history-search>
-        <entry>Ира. Код</entry>
-        <entry encoding="base64">XDwxNTA4MTM1NzMzMjI0XD4=</entry>
         <entry>ret</entry>
         <entry>null</entry>
         <entry>ownP</entry>
-        <entry>}</entry>
         <entry>mean</entry>
         <entry>17</entry>
         <entry>result</entry>
@@ -382,6 +392,9 @@
         <entry>85</entry>
         <entry>vast-le</entry>
         <entry>ser</entry>
+        <entry>func</entry>
+        <entry>}</entry>
+        <entry>carr</entry>
       </history-search>
       <history-cmd>
         <entry>%s/serg/ira/g</entry>
@@ -468,6 +481,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
