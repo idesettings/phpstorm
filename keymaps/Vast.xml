@@ -132,6 +132,9 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="HippieBackwardCompletion" />
   <action id="HtmlTableCellNavigateLeft" />
   <action id="HtmlTableCellNavigateRight" />
