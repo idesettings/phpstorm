@@ -94,6 +94,13 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="20" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/toggly/DateTime.php" timestamp="1508911162868">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/Abstract.php" timestamp="1507793368153">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="13" column="8" />
@@ -113,16 +120,30 @@
         <mark key="[" line="869" column="8" />
         <mark key="]" line="869" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/toggly/VastSyncer.php" timestamp="1508910835485">
+        <mark key="'" line="96" column="47" />
+        <mark key="[" line="97" column="79" />
+        <mark key="]" line="97" column="88" />
+        <mark key="." line="97" column="88" />
+        <mark key="^" line="97" column="88" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1508910531696">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1508832189533">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508908724878">
+      <file name="/Dummy.txt" timestamp="1508909325548">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="55" />
-        <mark key="." line="0" column="55" />
-        <mark key="^" line="0" column="55" />
+        <mark key="]" line="0" column="168" />
+        <mark key="." line="0" column="168" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1508826667370">
         <mark key="[" line="29" column="13" />
@@ -163,6 +184,7 @@
         <mark key="." line="397" column="7" />
         <mark key="^" line="397" column="7" />
       </file>
+      <file name="/Booking.php" timestamp="1508909205494" />
       <file name="$USER_HOME$/projects/vast/application/modules/delivery/models/Carrier.php" timestamp="1508741802103">
         <mark key="'" line="2" column="6" />
       </file>
@@ -210,14 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="21" column="10" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="26" column="29" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="27" column="31" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="33" column="6" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="7" column="5" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="43" column="24" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="51" column="4" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="61" column="4" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
@@ -310,33 +324,44 @@
       <jump line="1033" column="27" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
       <jump line="115" column="21" filename="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" />
       <jump line="2" column="6" filename="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
+      <jump line="76" column="4" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="97" column="47" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
+      <jump line="72" column="20" filename="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" />
+      <jump line="96" column="47" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
+      <jump line="5" column="6" filename="$USER_HOME$/projects/toggly/DateTime.php" />
+      <jump line="48" column="17" filename="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRlbGl2ZXJ5X2NhcnJpZXIgV0hFUkUgaWQgPSAzMzs=</text>
+        <text>0</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlbGl2ZXJ5X2NhcnJpZXIgV0hFUkUgaWQgPSAzMzs=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>company</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBkZWxpdmVyeV9jYXJyaWVyIFdIRVJFIGlkID0gMzM7Cg==</text>
+        <text encoding="base64">CQkgICAgdmFyX2R1bXAoJHRpbWVFbnRyeS0+Z2V0U3RvcCgpKTsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">CQkgICAgdmFyX2R1bXAoJHRpbWVFbnRyeS0+Z2V0U3RvcCgpKTsK</text>
+      </register>
+      <register name="2" type="8">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">MjAwMjgK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>function qualityFn(p, f) {
   const diff = Math.max(Math.ceil(p - f), 0);
   switch (diff) {
@@ -351,35 +376,23 @@
   }
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c3dpdGNoIChkaWZmKSB7CiAgICBjYXNlIDA6CiAgICAgIHJldHVybiAzOwogICAgY2FzZSAxOgogICAgICByZXR1cm4gMjsKICAgIGNhc2UgMjoKICAgICAgcmV0dXJuIDE7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gMDsKICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgImRpcmVjdENvbnRyb2wiOiBmYWxzZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgInRpdGxlIjogItCX0L3QsNC90LjQtSDQodC10YDRkdC20LXQuSDRgdC40YHRgtC10LzRiyBWYXN0INCyINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjQuCDRgSDQt9Cw0YDQv9C70LDRgtC90L7QuSDRgdC10YLQutC+0LkiLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIG93blBhcmFtID0gOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      title: 'Средневзвешенное качество управления по влияющим целям',
-      code: 'weighted-mean',
-      value: {
-        plan: 3,
-        fact: means.quality,
-        quality: Math.floor(means.quality),
-        actuality: Math.floor(means.actuality),
-      }
-    }</text>
-      </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -415,18 +428,11 @@
         <entry>company</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
-        <entry>%s/result/ownParam/gn</entry>
-        <entry>%s/result/ownParam/gc</entry>
-        <entry>m-4</entry>
-        <entry>W</entry>
-        <entry>s</entry>
         <entry>g/&quot;param&quot;:/</entry>
         <entry>g/&quot;param&quot;/</entry>
         <entry>print</entry>
         <entry>g/param/</entry>
         <entry>global /param/</entry>
-        <entry>w</entry>
         <entry>reg</entry>
         <entry>q</entry>
         <entry>listactions Ace</entry>
@@ -435,6 +441,13 @@
         <entry>actionlist Jump</entry>
         <entry>actionlist AceJump</entry>
         <entry>q!</entry>
+        <entry>actionlist Find</entry>
+        <entry>actionlist FindAction</entry>
+        <entry>actionlist Action</entry>
+        <entry>edit ~/.ideavimrc</entry>
+        <entry>nmap ш i</entry>
+        <entry>set surround</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
