@@ -17,6 +17,13 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" timestamp="1508908930551">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1508140829351">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="42" />
@@ -111,7 +118,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508832314087">
+      <file name="/Dummy.txt" timestamp="1508908724878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
@@ -188,8 +195,8 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="69" column="106" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1507880272053">
-        <mark key="'" line="162" column="0" />
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1508908809665">
+        <mark key="'" line="115" column="21" />
         <mark key="[" line="159" column="12" />
         <mark key="]" line="159" column="12" />
         <mark key="^" line="138" column="40" />
@@ -203,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="15" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="17" column="18" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="20" column="12" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="21" column="10" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="26" column="29" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
@@ -303,6 +308,8 @@
       <jump line="1563" column="23" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
       <jump line="1623" column="62" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
       <jump line="1033" column="27" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
+      <jump line="115" column="21" filename="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" />
+      <jump line="2" column="6" filename="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -372,7 +379,7 @@
     }</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist AceJump</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -408,7 +415,6 @@
         <entry>company</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry>qa</entry>
         <entry>%s/result/ownParam/gn</entry>
         <entry>%s/result/ownParam/gc</entry>
@@ -428,6 +434,7 @@
         <entry>actionlist Ace</entry>
         <entry>actionlist Jump</entry>
         <entry>actionlist AceJump</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
