@@ -17,6 +17,9 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" timestamp="1508911328029">
+        <mark key="'" line="70" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" timestamp="1508908930551">
         <mark key="'" line="2" column="6" />
         <mark key="[" line="136" column="0" />
@@ -37,6 +40,9 @@
       </file>
       <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" timestamp="1508748339341">
         <mark key="'" line="103" column="111" />
+      </file>
+      <file name="/a.dummy" timestamp="1508911703026">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" timestamp="1508208127231">
         <mark key="'" line="8" column="52" />
@@ -74,11 +80,17 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
+        <mark key="'" line="43" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/goals/api/fns/jbot-vast-level.js" timestamp="1508208096056">
         <mark key="[" line="20" column="37" />
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1508140630104">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1508207997222">
         <mark key="'" line="166" column="41" />
@@ -94,12 +106,11 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/toggly/DateTime.php" timestamp="1508911162868">
+      <file name="$USER_HOME$/projects/toggly/DateTime.php" timestamp="1508911729224">
         <mark key="'" line="5" column="6" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="41" />
-        <mark key="." line="15" column="34" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/Abstract.php" timestamp="1507793368153">
         <mark key="'" line="21" column="0" />
@@ -120,12 +131,12 @@
         <mark key="[" line="869" column="8" />
         <mark key="]" line="869" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/toggly/VastSyncer.php" timestamp="1508910835485">
-        <mark key="'" line="96" column="47" />
-        <mark key="[" line="97" column="79" />
-        <mark key="]" line="97" column="88" />
-        <mark key="." line="97" column="88" />
-        <mark key="^" line="97" column="88" />
+      <file name="$USER_HOME$/projects/toggly/VastSyncer.php" timestamp="1508912248057">
+        <mark key="'" line="76" column="23" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="104" column="20" />
+        <mark key="^" line="104" column="20" />
+        <mark key="." line="104" column="20" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1508910531696">
         <mark key="'" line="4" column="0" />
@@ -139,11 +150,10 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508909325548">
+      <file name="/Dummy.txt" timestamp="1508912288277">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="168" />
-        <mark key="." line="0" column="168" />
-        <mark key="^" line="0" column="32" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1508826667370">
         <mark key="[" line="29" column="13" />
@@ -213,10 +223,6 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="/b56ab86/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/database/vast/schema/public/routine/get_orders_awaiting_packing.(integer,integer).sql" timestamp="1508742738906">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="69" column="106" />
-      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1508908809665">
         <mark key="'" line="115" column="21" />
         <mark key="[" line="159" column="12" />
@@ -232,13 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="24" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="51" column="4" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="61" column="4" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="15" column="11" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="37" column="11" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="40" column="6" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="41" column="15" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
@@ -325,71 +324,66 @@
       <jump line="115" column="21" filename="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" />
       <jump line="2" column="6" filename="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
-      <jump line="76" column="4" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
       <jump line="4" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="97" column="47" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
       <jump line="72" column="20" filename="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" />
       <jump line="96" column="47" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
       <jump line="5" column="6" filename="$USER_HOME$/projects/toggly/DateTime.php" />
       <jump line="48" column="17" filename="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" />
+      <jump line="99" column="52" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
+      <jump line="70" column="17" filename="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" />
+      <jump line="21" column="72" filename="$USER_HOME$/projects/toggly/DateTime.php" />
+      <jump line="37" column="23" filename="$USER_HOME$/projects/toggly/Syncer.php" />
+      <jump line="109" column="23" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
+      <jump line="38" column="31" filename="$USER_HOME$/projects/toggly/Syncer.php" />
+      <jump line="76" column="23" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
+      <jump line="43" column="40" filename="$USER_HOME$/projects/toggly/Syncer.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>company</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkgICAgdmFyX2R1bXAoJHRpbWVFbnRyeS0+Z2V0U3RvcCgpKTsK</text>
+        <text encoding="base64">CQkvKiogQG5vaW5zcGVjdGlvbiBUeXBlVW5zYWZlQ29tcGFyaXNvbkluc3BlY3Rpb24gKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgdmFyX2R1bXAoJHRpbWVFbnRyeS0+Z2V0U3RvcCgpKTsK</text>
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
-      <register name="2" type="8">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MjAwMjgK</text>
+        <text encoding="base64">bmV3IHdvcmsgdHlwZTogc3lzYWRtaW4K</text>
       </register>
-      <register name="4" type="4">
-        <text>function qualityFn(p, f) {
-  const diff = Math.max(Math.ceil(p - f), 0);
-  switch (diff) {
-    case 0:
-      return 3;
-    case 1:
-      return 2;
-    case 2:
-      return 1;
-    default:
-      return 0;
-  }
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3dpdGNoIChkaWZmKSB7CiAgICBjYXNlIDA6CiAgICAgIHJldHVybiAzOwogICAgY2FzZSAxOgogICAgICByZXR1cm4gMjsKICAgIGNhc2UgMjoKICAgICAgcmV0dXJuIDE7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gMDsKICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnID09IHdvcmsgaXRlbSAnIC4gJHdvcmtJdGVtLT5nZXREYXRlKCktPmZvcm1hdCgnWS1tLWQgSDppOnMnKSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImRpcmVjdENvbnRyb2wiOiBmYWxzZQo=</text>
+        <text encoding="base64">CQkgICAgZWNobyAndGltZSBlbnRyeSAnIC4gJHRpbWVFbnRyeS0+Z2V0U3RvcCgpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgInRpdGxlIjogItCX0L3QsNC90LjQtSDQodC10YDRkdC20LXQuSDRgdC40YHRgtC10LzRiyBWYXN0INCyINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjQuCDRgSDQt9Cw0YDQv9C70LDRgtC90L7QuSDRgdC10YLQutC+0LkiLAo=</text>
+        <text encoding="base64">CQkvKiogQG5vaW5zcGVjdGlvbiBUeXBlVW5zYWZlQ29tcGFyaXNvbkluc3BlY3Rpb24gKi8K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG93blBhcmFtID0gOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgkJJGFub3RoZXJTdGFydE9mRGF5ID0gXERhdGVU</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -428,8 +422,6 @@
         <entry>company</entry>
       </history-search>
       <history-cmd>
-        <entry>g/&quot;param&quot;:/</entry>
-        <entry>g/&quot;param&quot;/</entry>
         <entry>print</entry>
         <entry>g/param/</entry>
         <entry>global /param/</entry>
@@ -447,6 +439,8 @@
         <entry>edit ~/.ideavimrc</entry>
         <entry>nmap ш i</entry>
         <entry>set surround</entry>
+        <entry>actionlist Inline</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSW5saW5l</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
