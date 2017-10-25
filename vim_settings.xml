@@ -23,10 +23,13 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1508746386814">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1508830486249">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" timestamp="1508748339341">
+        <mark key="'" line="103" column="111" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" timestamp="1508208127231">
         <mark key="'" line="8" column="52" />
@@ -39,6 +42,9 @@
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/addons/_print_register.phtml" timestamp="1508748173348">
+        <mark key="'" line="0" column="88" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" timestamp="1508206936278">
         <mark key="'" line="18" column="8" />
@@ -95,24 +101,27 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1508742623203">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" timestamp="1508748996859">
+        <mark key="'" line="1014" column="27" />
+        <mark key="[" line="869" column="8" />
+        <mark key="]" line="869" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508143407180">
+      <file name="/dummy.sql" timestamp="1508832189533">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508832314087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Shop.php" timestamp="1508143106327">
-        <mark key="'" line="47" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1507699859083">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1508826667370">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/projects/goals/db/work/ira-vast-level.json" timestamp="1508207730964">
         <mark key="[" line="4" column="96" />
@@ -133,22 +142,19 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" timestamp="1508746422725">
-        <mark key="'" line="90" column="106" />
-        <mark key="[" line="80" column="13" />
-        <mark key="]" line="80" column="13" />
-        <mark key="." line="80" column="13" />
-        <mark key="^" line="92" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" timestamp="1508748036263">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="92" column="49" />
+        <mark key="]" line="94" column="41" />
+        <mark key="." line="94" column="41" />
+        <mark key="^" line="94" column="41" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" timestamp="1508204773195">
-        <mark key="'" line="233" column="30" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="7" />
-        <mark key="." line="240" column="7" />
-        <mark key="^" line="240" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/controllers/WmsController.php" timestamp="1508741958370">
-        <mark key="'" line="1598" column="27" />
+        <mark key="'" line="390" column="30" />
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="7" />
+        <mark key="." line="397" column="7" />
+        <mark key="^" line="397" column="7" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/delivery/models/Carrier.php" timestamp="1508741802103">
         <mark key="'" line="2" column="6" />
@@ -197,23 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="34" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="0" column="17" filename="$USER_HOME$/projects/goals/api/fns/date-utils.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/goals/api/fns/date-utils.js" />
-      <jump line="2" column="1" filename="$USER_HOME$/projects/goals/api/fns/date-utils.js" />
-      <jump line="13" column="20" filename="$USER_HOME$/projects/goals/api/fns/date-utils.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="0" column="40" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="1" column="40" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="21" column="35" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="22" column="30" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="20" column="49" filename="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" />
-      <jump line="94" column="26" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="146" column="3" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="24" column="8" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="14" column="4" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
-      <jump line="12" column="16" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="22" column="15" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="17" column="18" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
       <jump line="20" column="12" filename="$USER_HOME$/projects/goals/api/calculate-weighted-means.fn.js" />
@@ -297,30 +286,50 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" />
       <jump line="82" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" />
       <jump line="90" column="106" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" />
+      <jump line="52" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" />
+      <jump line="27" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" />
+      <jump line="0" column="88" filename="$USER_HOME$/projects/vast/application/views/scripts/reports/render/addons/_print_register.phtml" />
+      <jump line="103" column="111" filename="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" />
+      <jump line="957" column="8" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1202" column="9" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1182" column="8" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1222" column="16" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1221" column="21" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1220" column="28" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1211" column="31" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1218" column="33" filename="$USER_HOME$/projects/vast/application/controllers/ReportsController.php" />
+      <jump line="1063" column="8" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
+      <jump line="1563" column="23" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
+      <jump line="1623" column="62" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
+      <jump line="1033" column="27" filename="$USER_HOME$/projects/vast/application/models/DbRow/Reports/Reports.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">IGRlbGl2ZXJ5X2NhcnJpZXIgV0hFUkUgaWQgPSAzMzs=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IGRlbGl2ZXJ5X2NhcnJpZXIgV0hFUkUgaWQgPSAzMzs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzQv9C+0YHRgtCw0LLRidC40LrRg1w+</text>
+        <text>company</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIERJU1RJTkNUCgl0LiJvcmRlciIsCgl0LmN1c3RvbWVyLAoJdC5kZWxpdmVyeV9zZXJ2aWNlX2lkCkZST00gKAoJCQkgU0VMRUNUCgkJCQkgb2UuIm9yZGVyIiwKCQkJCSBvLmN1c3RvbWVyLAoJCQkJIG8uZGVsaXZlcnlfc2VydmljZV9pZCwKCQkJCSBvLnBheWVkLAoJCQkJIGR1LmFjY291bnQsCgkJCQkgU1VNKENBU0UKCQkJCQkJIFdIRU4gb2UuYW1vdW50ID4gQ09BTEVTQ0Uoc3QuYW1vdW50LCAwKQoJCQkJCQkJIFRIRU4gMQoJCQkJCQkgRUxTRSAwCgkJCQkJCSBFTkQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3Rfbm90X2luX3N0b2NrLAoJCQkJIGJvb2xfYW5kKG8uZm9yY2Vfc2hpcHBpbmcgPSAwIEFORCBvLnBheW1lbnRfdHlwZSA9IDEpIHNob3VsZF9iZV9wYXllZCwKCQkJCSBib29sX2FuZChvLmZvcmNlX3NoaXBwaW5nIDw+IDIpICAgICAgICAgICAgICAgICAgICAgICBjYW5fYmVfcGFja2VkLAoJCQkJIHN1bShvLnRvdGFsKQoJCQkJIE9WRVIgKAoJCQkJCSBQQVJUSVRJT04gQlkgZG9tYWluX3VzZXJfaWQKCQkJCQkgT1JERVIgQlkgby5pZCApIEFTICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsCgkJCSBGUk9NIG9yZGVyX2VsZW1lbnQgb2UKCQkJCSBJTk5FUiBKT0lOICJvcmRlciIgbwoJCQkJCSBPTiBvZS4ib3JkZXIiID0gby5pZAoJCQkJCQkJQU5EIG8uZGVsZXRlZCA9IDAgLS0g0LfQsNC60LDQtyDQvdC1INGD0LTQsNC70ZHQvQoJCQkJCQkJQU5EIG8uc3RhdGUgPSAncHJvY2Vzc2luZycgLS0g0YHRgtCw0YLRg9GBINC30LDQutCw0LfQsCAicHJvY2Vzc2luZyIKCQkJCQkJCUFORCAoby5wYWNrX2FmdGVyIElTIE5VTEwgT1Igby5wYWNrX2FmdGVyIDw9IE5PVygpKQoJCQkJIExFRlQgSk9JTiBwcm9kdWN0X29yZGVyIHBvCgkJCQkJIE9OIG9lLnByb2R1Y3Rfb3JkZXIgPSBwby5pZAoJCQkJIExFRlQgSk9JTiB3bXNfYWNjX2lucXVpcnlfcmVtYWluIGlyCgkJCQkJIE9OIG9lLnByb2R1Y3Rfb3JkZXIgPSBpci5pbnF1aXJ5X2lkIEFORCBvZS5wcm9kdWN0ID0gaXIucHJvZHVjdF9pZAoJCQkJIExFRlQgSk9JTiBkb21haW5fdXNlciBkdQoJCQkJCSBPTiBkdS5pZCA9IG8uZG9tYWluX3VzZXJfaWQKCQkJCSBMRUZUIEpPSU4gcHJvZHVjdCBwCgkJCQkJIE9OIG9lLnByb2R1Y3QgPSBwLmlkCgkJCQkgTEVGVCBKT0lOICJ1c2VyIiBzCgkJCQkJIE9OIHAuc3VwcGxpZXIgPSBzLmlkCgkJCQkgTEVGVCBKT0lOIG9iamVjdF9sb2NrIGwKCQkJCQkgT04gbC5vYmplY3RfdHlwZSA9ICdvcmRlcicKCQkJCQkJCUFORCBvZS4ib3JkZXIiID0gbC5vYmplY3RfaWQKCQkJCQkJCUFORCAoJDIgSVMgTlVMTCBPUiBsLnVzZXJfaWQgPD4gJDIpCgkJCQkgTEVGVCBKT0lOICgKCQkJCQkJCQkJCSBTRUxFQ1QKCQkJCQkJCQkJCQkgcHJvZHVjdCwKCQkJCQkJCQkJCQkgU1VNKGFtb3VudCkgYW1vdW50CgkJCQkJCQkJCQkgRlJPTSB3bXNfc3RvY2sKCQkJCQkJCQkJCQkgSU5ORVIgSk9JTiB3bXNfY2VsbAoJCQkJCQkJCQkJCQkgT04gd21zX3N0b2NrLmNlbGwgPSB3bXNfY2VsbC5pZAoJCQkJCQkJCQkJIFdIRVJFIHdtc19jZWxsLnpvbmUgPSAnYXNzZW1ibHknCgkJCQkJCQkJCQkgR1JPVVAgQlkgcHJvZHVjdAoJCQkJCQkJCQkgKSBzdAoJCQkJCSBPTiBvZS5wcm9kdWN0ID0gc3QucHJvZHVjdAoJCQkgV0hFUkUgb2Uuc3RvcmUgPSAkMQoJCQkJCQkgQU5EIG9lLnNlbGVjdGlvbl9pZCBJUyBOVUxMCgkJCQkJCSBBTkQgbC51c2VyX2lkIElTIE5VTEwgLS0g0J3QtSDQt9Cw0LHQu9C+0LrQuNGA0L7QstCw0L0g0L7Qv9C10YDQsNGC0L7RgNC+0LwuCgkJCSBHUk9VUCBCWSBvZS4ib3JkZXIiLCBvLmN1c3RvbWVyLCBvLmRlbGl2ZXJ5X3NlcnZpY2VfaWQsIG8ucGF5ZWQsIGR1LmFjY291bnQsIG8udG90YWwsIG8uaWQKCQkJIEhBVklORyBTVU0oCgkJCQkJCQkJCUNBU0UgV0hFTgoJCQkJCQkJCQkJKHMuaWQgSVMgTlVMTCBPUiBzLm91dGVyc3RvcmUgPSAwKSBPUgoJCQkJCQkJCQkJKHBvLmlkIElTIE5PVCBOVUxMIEFORCBwby5zdGF0ZSA8PiAndW5hY2NlcHRlZCcgQU5EIGlyLmFtb3VudCBJUyBOVUxMKQoJCQkJCQkJCQkJVEhFTiAwCgkJCQkJCQkJCUVMU0UgMSBFTkQKCQkJCQkJCSkgPSAwIC0tINCd0LDRiCDRgtC+0LLQsNGAINC40LvQuCDQt9Cw0Y/QstC60LAg0L/QvtGB0YLQsNCy0YnQuNC60YMg0LfQsNCy0LXRgNGI0LXQvdCwCgkJICkgdApXSEVSRSBwcm9kdWN0X25vdF9pbl9zdG9jayA9IDAgQU5EIGNhbl9iZV9wYWNrZWQgQU5EIChOT1Qgc2hvdWxkX2JlX3BheWVkIE9SIHBheWVkICsgYWNjb3VudCArIDEgPj0gdG90YWwpCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBkZWxpdmVyeV9jYXJyaWVyIFdIRVJFIGlkID0gMzM7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text />
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">MjAwMjgK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>function qualityFn(p, f) {
   const diff = Math.max(Math.ceil(p - f), 0);
   switch (diff) {
@@ -335,22 +344,22 @@
   }
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">c3dpdGNoIChkaWZmKSB7CiAgICBjYXNlIDA6CiAgICAgIHJldHVybiAzOwogICAgY2FzZSAxOgogICAgICByZXR1cm4gMjsKICAgIGNhc2UgMjoKICAgICAgcmV0dXJuIDE7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gMDsKICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgImRpcmVjdENvbnRyb2wiOiBmYWxzZQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgInRpdGxlIjogItCX0L3QsNC90LjQtSDQodC10YDRkdC20LXQuSDRgdC40YHRgtC10LzRiyBWYXN0INCyINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjQuCDRgSDQt9Cw0YDQv9C70LDRgtC90L7QuSDRgdC10YLQutC+0LkiLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG93blBhcmFtID0gOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
       title: 'Средневзвешенное качество управления по влияющим целям',
       code: 'weighted-mean',
@@ -362,17 +371,14 @@
       }
     }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>actionlist AceJump</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzQv9C+0YHRgtCw0LLRidC40LrRg1w+</last-search>
+      <last-search>company</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzQv9C+0YHRgtCw0LLRidC40LrRg1w+</last-pattern>
+      <last-pattern>company</last-pattern>
       <last-replace>ownParam</last-replace>
       <last-substitute>result</last-substitute>
       <last-dir>1</last-dir>
@@ -380,10 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>17</entry>
-        <entry>result</entry>
-        <entry encoding="base64">XDwxNTA0MjM1NjcyNzIxXD4=</entry>
-        <entry>Теор</entry>
         <entry>days</entry>
         <entry>descrip</entry>
         <entry>\v&quot;param&quot;</entry>
@@ -400,13 +402,12 @@
         <entry>$2</entry>
         <entry>*</entry>
         <entry encoding="base64">XDzQv9C+0YHRgtCw0LLRidC40LrRg1w+</entry>
+        <entry>data</entry>
+        <entry>getData</entry>
+        <entry>= 12</entry>
+        <entry>company</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/serg/ira/g</entry>
-        <entry>%s//jbot/g</entry>
-        <entry>%d</entry>
-        <entry>%s/asStr/dateAsStr</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
         <entry>qa</entry>
         <entry>%s/result/ownParam/gn</entry>
@@ -422,6 +423,11 @@
         <entry>w</entry>
         <entry>reg</entry>
         <entry>q</entry>
+        <entry>listactions Ace</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist Ace</entry>
+        <entry>actionlist Jump</entry>
+        <entry>actionlist AceJump</entry>
       </history-cmd>
       <history-expr />
       <history-input />
