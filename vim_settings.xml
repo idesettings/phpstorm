@@ -17,8 +17,33 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1508911703026">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" timestamp="1508911328029">
+        <mark key="'" line="70" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" timestamp="1508908930551">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="/Cart.php" timestamp="1509082423746">
+        <mark key="'" line="56" column="27" />
+      </file>
+      <file name="/CustomerTest.php" timestamp="1509341556353">
+        <mark key="'" line="6" column="5" />
+      </file>
+      <file name="/Payment.php" timestamp="1509341903669">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/Cart.php" timestamp="1509085457841">
+        <mark key="'" line="59" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" timestamp="1508748339341">
+        <mark key="'" line="103" column="111" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Db/Table/Row/Abstract.php" timestamp="1508986771080">
+        <mark key="'" line="312" column="20" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/fns/ira-theor-level.js" timestamp="1508208127231">
         <mark key="'" line="8" column="52" />
@@ -36,68 +61,6 @@
         <mark key="]" line="42" column="10" />
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
-        <mark key="'" line="43" column="40" />
-      </file>
-      <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1508207997222">
-        <mark key="'" line="166" column="41" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="88" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/AjaxCartController.php" timestamp="1509000687064">
-        <mark key="'" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/toggly/VastSyncer.php" timestamp="1508912248057">
-        <mark key="'" line="76" column="23" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="20" />
-        <mark key="^" line="104" column="20" />
-        <mark key="." line="104" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" timestamp="1508208369688">
-        <mark key="'" line="34" column="2" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" timestamp="1509082760904">
-        <mark key="'" line="251" column="20" />
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="7" />
-        <mark key="." line="397" column="7" />
-        <mark key="^" line="397" column="7" />
-      </file>
-      <file name="/Booking.php" timestamp="1508909205494" />
-      <file name="$USER_HOME$/projects/goals/api/fns/date-utils.js" timestamp="1508137620929">
-        <mark key="'" line="13" column="20" />
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="42" />
-      </file>
-      <file name="/AjaxCartController.php" timestamp="1509085334498" />
-      <file name="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" timestamp="1508911328029">
-        <mark key="'" line="70" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" timestamp="1508908930551">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
-      <file name="/Cart.php" timestamp="1509082423746">
-        <mark key="'" line="56" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" timestamp="1508748339341">
-        <mark key="'" line="103" column="111" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Db/Table/Row/Abstract.php" timestamp="1508986771080">
-        <mark key="'" line="312" column="20" />
       </file>
       <file name="$USER_HOME$/projects/toggly/index.php" timestamp="1509063387652">
         <mark key="'" line="19" column="34" />
@@ -123,11 +86,22 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
+        <mark key="'" line="43" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Cart.php" timestamp="1509000687599">
         <mark key="'" line="177" column="20" />
       </file>
-      <file name="/JavaScript Console" timestamp="1508140630104">
-        <mark key="[" line="0" column="0" />
+      <file name="/AjaxCartControllerTest.php" timestamp="1509341341427" />
+      <file name="/Locality.php" timestamp="1509341756443">
+        <mark key="'" line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1508207997222">
+        <mark key="'" line="166" column="41" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="88" column="54" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" timestamp="1508137847667">
         <mark key="'" line="20" column="49" />
@@ -136,11 +110,8 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/toggly/DateTime.php" timestamp="1508911729224">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="59" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/CartTest.php" timestamp="1509341525381">
+        <mark key="'" line="20" column="62" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/Abstract.php" timestamp="1507793368153">
         <mark key="'" line="21" column="0" />
@@ -156,23 +127,45 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1509082685986">
+      <file name="$USER_HOME$/projects/toggly/VastSyncer.php" timestamp="1508912248057">
+        <mark key="'" line="76" column="23" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="104" column="20" />
+        <mark key="^" line="104" column="20" />
+        <mark key="." line="104" column="20" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1509341540602">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="16" column="7" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="/dummy.sql" timestamp="1508989607275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509085308051">
+      <file name="/Dummy.txt" timestamp="1509341906262">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+      </file>
+      <file name="/Delivery.php" timestamp="1509341810196" />
+      <file name="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" timestamp="1508208369688">
+        <mark key="'" line="34" column="2" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" timestamp="1509082760904">
+        <mark key="'" line="251" column="20" />
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="7" />
+        <mark key="." line="397" column="7" />
+        <mark key="^" line="397" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6494011-3819-4b04-aa61-6f212c4d4e04/console.sql" timestamp="1508748036263">
         <mark key="'" line="27" column="12" />
@@ -184,6 +177,13 @@
       <file name="$USER_HOME$/projects/vast/application/modules/delivery/models/Carrier.php" timestamp="1508741802103">
         <mark key="'" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/goals/api/fns/date-utils.js" timestamp="1508137620929">
+        <mark key="'" line="13" column="20" />
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/goals/api/fns/jbot-ins-grade.js" timestamp="1508134073287">
         <mark key="'" line="9" column="45" />
         <mark key="[" line="10" column="0" />
@@ -191,30 +191,17 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1509000851706">
-        <mark key="d" line="336" column="23" />
-        <mark key="u" line="336" column="22" />
-        <mark key="'" line="301" column="21" />
-        <mark key="[" line="159" column="12" />
-        <mark key="]" line="159" column="12" />
-        <mark key="^" line="138" column="40" />
-        <mark key="." line="159" column="12" />
+      <file name="/LocalityTest.php" timestamp="1509341885990">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1509085418458">
+        <mark key="'" line="247" column="32" />
+      </file>
+      <file name="/AjaxCartController.php" timestamp="1509341208207">
+        <mark key="'" line="20" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="11" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="18" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="22" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="26" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="30" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="34" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="38" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="42" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="73" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="82" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="91" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="95" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="99" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="103" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="106" column="7" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="111" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
@@ -302,13 +289,26 @@
       <jump line="34" column="27" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="251" column="20" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="2" column="33" filename="$USER_HOME$/projects/vast/application/modules/cron/models/Task/DeleteOldCart.php" />
+      <jump line="3" column="6" filename="$USER_HOME$/projects/vast/application/modules/shop/validators/Cart.php" />
+      <jump line="96" column="31" filename="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" />
+      <jump line="247" column="32" filename="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" />
+      <jump line="59" column="22" filename="$USER_HOME$/projects/vast/application/modules/shop/validators/Cart.php" />
+      <jump line="51" column="53" filename="/AjaxCartController.php" />
+      <jump line="22" column="9" filename="/AjaxCartController.php" />
+      <jump line="20" column="58" filename="/AjaxCartController.php" />
+      <jump line="1" column="0" filename="/CustomerTest.php" />
+      <jump line="20" column="62" filename="$USER_HOME$/projects/vast/application/modules/shop/validators/CartTest.php" />
+      <jump line="6" column="5" filename="/CustomerTest.php" />
+      <jump line="20" column="4" filename="/Locality.php" />
+      <jump line="0" column="0" filename="/LocalityTest.php" />
+      <jump line="0" column="0" filename="/Payment.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>now</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">J25qICcK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
@@ -317,54 +317,53 @@
         <text>now</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
+        <text encoding="base64">J25qICcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
+        <text encoding="base64">QNCh0LXRgNCz0LXQuSDQnNCw0LvRjNGH0LjRhiBkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3IHdvcmsgdHlwZTogc3lzYWRtaW4K</text>
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnID09IHdvcmsgaXRlbSAnIC4gJHdvcmtJdGVtLT5nZXREYXRlKCktPmZvcm1hdCgnWS1tLWQgSDppOnMnKSAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">bmV3IHdvcmsgdHlwZTogc3lzYWRtaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgZWNobyAndGltZSBlbnRyeSAnIC4gJHRpbWVFbnRyeS0+Z2V0U3RvcCgpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvKiogQG5vaW5zcGVjdGlvbiBUeXBlVW5zYWZlQ29tcGFyaXNvbkluc3BlY3Rpb24gKi8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgkJJGFub3RoZXJTdGFydE9mRGF5ID0gXERhdGVU</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnID09IHdvcmsgaXRlbSAnIC4gJHdvcmtJdGVtLT5nZXREYXRlKCktPmZvcm1hdCgnWS1tLWQgSDppOnMnKSAuIFBIUF9FT0w7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkgICAgZWNobyAndGltZSBlbnRyeSAnIC4gJHRpbWVFbnRyeS0+Z2V0U3RvcCgpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkvKiogQG5vaW5zcGVjdGlvbiBUeXBlVW5zYWZlQ29tcGFyaXNvbkluc3BlY3Rpb24gKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist Jump</text>
+        <text>nmap п g</text>
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>ownParam</last-replace>
       <last-substitute>result</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>days</entry>
         <entry>descrip</entry>
         <entry>\v&quot;param&quot;</entry>
         <entry>descri</entry>
@@ -384,28 +383,29 @@
         <entry>getData</entry>
         <entry>= 12</entry>
         <entry>company</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
-        <entry>actionlist Find</entry>
-        <entry>actionlist FindAction</entry>
-        <entry>actionlist Action</entry>
-        <entry>nmap ш i</entry>
-        <entry>set surround</entry>
-        <entry>actionlist Inline</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gSW5saW5l</entry>
-        <entry>actionlist next</entry>
-        <entry>actionlist method</entry>
-        <entry>action MethodDown</entry>
         <entry>edit ~/.ideavimrc</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcCA=</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcDxjcj4=</entry>
         <entry>action MethodUp</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>listactions</entry>
         <entry>listactions Jump</entry>
         <entry>actionlist Jump</entry>
+        <entry>set nu</entry>
+        <entry>actionlist Next</entry>
+        <entry>listaction Difference</entry>
+        <entry encoding="base64">bm1hcCA8c3BhY2U+bmQgOmFjdGlvbiBOZXh0RGlmZg==</entry>
+        <entry encoding="base64">bm1hcCA8c3BhY2U+bmQgOmFjdGlvbiBOZXh0RGlmZjxjcj4=</entry>
+        <entry>actionlist Diff</entry>
+        <entry>action NextDiff</entry>
+        <entry>action PreviousDiff</entry>
+        <entry>set relativenumber</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>w</entry>
+        <entry>nmap п g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
