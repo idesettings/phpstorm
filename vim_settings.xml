@@ -36,6 +36,12 @@
       <file name="/Payment.php" timestamp="1509341903669">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/goals/src/store.js" timestamp="1509432512691">
+        <mark key="[" line="31" column="71" />
+        <mark key="]" line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/Cart.php" timestamp="1509085457841">
         <mark key="'" line="59" column="22" />
       </file>
@@ -108,8 +114,10 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1509430830382">
-        <mark key="[" line="44" column="37" />
+      <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1509432251941">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/CartTest.php" timestamp="1509341525381">
         <mark key="'" line="20" column="62" />
@@ -309,49 +317,49 @@
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>now</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>ЦОЗ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJhcmNoaXZlZCI6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICBnb2FsczogSlNPTi5wYXJzZShnb2Fsc1JhdyksCiAgICAgICAgbGlua3M6IEpTT04ucGFyc2UobGlua3NSYXcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J25qICcK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbGlua3MgPSBKU09OLnBhcnNlKGxpbmtzUmF3KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QNCh0LXRgNCz0LXQuSDQnNCw0LvRjNGH0LjRhiBkZAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZ29hbHMgPSBKU09OLnBhcnNlKGdvYWxzUmF3KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZ29hbHMgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bmV3IHdvcmsgdHlwZTogc3lzYWRtaW4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">J25qICcK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QNCh0LXRgNCz0LXQuSDQnNCw0LvRjNGH0LjRhiBkZAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnID09IHdvcmsgaXRlbSAnIC4gJHdvcmtJdGVtLT5nZXREYXRlKCktPmZvcm1hdCgnWS1tLWQgSDppOnMnKSAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgZWNobyAndGltZSBlbnRyeSAnIC4gJHRpbWVFbnRyeS0+Z2V0U3RvcCgpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyk7Cg==</text>
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -405,8 +413,8 @@
         <entry>set relativenumber</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>nmap п g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
