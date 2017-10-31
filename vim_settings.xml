@@ -92,16 +92,14 @@
       <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Cart.php" timestamp="1509000687599">
         <mark key="'" line="177" column="20" />
       </file>
-      <file name="/AjaxCartControllerTest.php" timestamp="1509341341427" />
       <file name="/Locality.php" timestamp="1509341756443">
         <mark key="'" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1508207997222">
-        <mark key="'" line="166" column="41" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="88" column="54" />
+      <file name="$USER_HOME$/projects/goals/db/work/goals.json" timestamp="1509429689658">
+        <mark key="'" line="122" column="20" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="4" />
+        <mark key="." line="123" column="4" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/fns/ira-fast-ins.js" timestamp="1508137847667">
         <mark key="'" line="20" column="49" />
@@ -109,6 +107,9 @@
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
         <mark key="^" line="20" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1509430830382">
+        <mark key="[" line="44" column="37" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/CartTest.php" timestamp="1509341525381">
         <mark key="'" line="20" column="62" />
@@ -141,18 +142,12 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="/dummy.sql" timestamp="1508989607275">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
       <file name="/Dummy.txt" timestamp="1509341906262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/Delivery.php" timestamp="1509341810196" />
       <file name="$USER_HOME$/projects/goals/api/fns/ira-vast-level.js" timestamp="1508208369688">
         <mark key="'" line="34" column="2" />
         <mark key="[" line="24" column="0" />
@@ -200,11 +195,14 @@
       <file name="/AjaxCartController.php" timestamp="1509341208207">
         <mark key="'" line="20" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/goals/db/work/occ-ready-percent.json" timestamp="1509427292512">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="106" column="7" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="111" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="123" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="6" column="5" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
       <jump line="23" column="15" filename="$USER_HOME$/projects/goals/src/Links.vue" />
@@ -302,13 +300,16 @@
       <jump line="20" column="4" filename="/Locality.php" />
       <jump line="0" column="0" filename="/LocalityTest.php" />
       <jump line="0" column="0" filename="/Payment.php" />
+      <jump line="82" column="42" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="117" column="14" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
+      <jump line="122" column="20" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">J25qICcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
@@ -317,54 +318,53 @@
         <text>now</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>ЦОЗ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcAo=</text>
+        <text encoding="base64">ICAgICJhcmNoaXZlZCI6IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J25qICcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QNCh0LXRgNCz0LXQuSDQnNCw0LvRjNGH0LjRhiBkZAo=</text>
+        <text encoding="base64">J25qICcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
+        <text encoding="base64">QNCh0LXRgNCz0LXQuSDQnNCw0LvRjNGH0LjRhiBkZAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmV3IHdvcmsgdHlwZTogc3lzYWRtaW4K</text>
+        <text encoding="base64">ZWNobyBQSFBfRU9MOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmV3IHdvcmsgdHlwZTogc3lzYWRtaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnID09IHdvcmsgaXRlbSAnIC4gJHdvcmtJdGVtLT5nZXREYXRlKCktPmZvcm1hdCgnWS1tLWQgSDppOnMnKSAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgZWNobyAndGltZSBlbnRyeSAnIC4gJHRpbWVFbnRyeS0+Z2V0U3RvcCgpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnID09IHdvcmsgaXRlbSAnIC4gJHdvcmtJdGVtLT5nZXREYXRlKCktPmZvcm1hdCgnWS1tLWQgSDppOnMnKSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvKiogQG5vaW5zcGVjdGlvbiBUeXBlVW5zYWZlQ29tcGFyaXNvbkluc3BlY3Rpb24gKi8K</text>
+        <text encoding="base64">CQkgICAgZWNobyAndGltZSBlbnRyeSAnIC4gJHRpbWVFbnRyeS0+Z2V0U3RvcCgpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nmap п g</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search>ЦОЗ</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>ЦОЗ</last-pattern>
       <last-replace>ownParam</last-replace>
       <last-substitute>result</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>descrip</entry>
         <entry>\v&quot;param&quot;</entry>
         <entry>descri</entry>
         <entry>desc</entry>
@@ -384,9 +384,9 @@
         <entry>= 12</entry>
         <entry>company</entry>
         <entry>check</entry>
+        <entry>ЦОЗ</entry>
       </history-search>
       <history-cmd>
-        <entry>edit ~/.ideavimrc</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcCA=</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcDxjcj4=</entry>
         <entry>action MethodUp</entry>
@@ -404,8 +404,9 @@
         <entry>action PreviousDiff</entry>
         <entry>set relativenumber</entry>
         <entry>e ~/.ideavimrc</entry>
-        <entry>w</entry>
         <entry>nmap п g</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
