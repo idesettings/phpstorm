@@ -29,17 +29,28 @@
       <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
         <mark key="'" line="43" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/vast/build.xml" timestamp="1510044601142">
+        <mark key="'" line="271" column="12" />
+        <mark key="[" line="267" column="107" />
+        <mark key="]" line="268" column="53" />
+        <mark key="^" line="268" column="53" />
+        <mark key="." line="268" column="53" />
+      </file>
       <file name="/SdekIntegrator.php" timestamp="1509598599226">
         <mark key="'" line="571" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1509522814408">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="58" column="67" />
+        <mark key="]" line="58" column="67" />
+        <mark key="." line="58" column="67" />
+        <mark key="^" line="58" column="70" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/wms1/models/DbRow/Parcel.php" timestamp="1509523640988">
         <mark key="'" line="293" column="23" />
       </file>
       <file name="/LocalityTest.php" timestamp="1509341885990">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/models/CartElement.php" timestamp="1509524425854">
-        <mark key="." line="96" column="36" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Selection.php" timestamp="1510022075767">
         <mark key="'" line="62" column="8" />
@@ -51,6 +62,11 @@
         <mark key="'" line="20" column="58" />
       </file>
       <file name="/selection.phtml" timestamp="1510022431538" />
+      <file name="$USER_HOME$/projects/vast/public/index.php" timestamp="1510042376328">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" timestamp="1508911328029">
         <mark key="'" line="70" column="17" />
       </file>
@@ -106,9 +122,6 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/models/DbRow/Order.php" timestamp="1509523652659">
-        <mark key="'" line="2001" column="44" />
-      </file>
       <file name="/1.create-tables.sql" timestamp="1509689881475">
         <mark key="'" line="21" column="0" />
       </file>
@@ -130,15 +143,8 @@
       <file name="/ScheduleController.php" timestamp="1509688631141">
         <mark key="'" line="125" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1509085418458">
-        <mark key="'" line="247" column="32" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="6" filename="$USER_HOME$/projects/vast/application/modules/wms1/services/Booking.php" />
-      <jump line="104" column="0" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="97" column="47" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
       <jump line="72" column="20" filename="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" />
       <jump line="96" column="47" filename="$USER_HOME$/projects/toggly/VastSyncer.php" />
       <jump line="5" column="6" filename="$USER_HOME$/projects/toggly/DateTime.php" />
@@ -235,13 +241,17 @@
       <jump line="62" column="8" filename="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Selection.php" />
       <jump line="22" column="8" filename="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Selection.php" />
       <jump line="2178" column="47" filename="$USER_HOME$/projects/vast/application/controllers/WmsController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/vast/build.xml" />
+      <jump line="112" column="26" filename="$USER_HOME$/projects/vast/build.xml" />
+      <jump line="113" column="56" filename="$USER_HOME$/projects/vast/build.xml" />
+      <jump line="269" column="12" filename="$USER_HOME$/projects/vast/build.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>removeFileVerbose</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gQ3JlYXRlIGFwcGxpY2F0aW9uLCBib290c3RyYXAsIGFuZCBydW4K</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
@@ -250,57 +260,53 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>files</text>
       </register>
       <register name="0" type="4">
         <text>removeFileVerbose</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBjcmVhdGVBY3Rpb24oKSB7Cgo=</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIGFwcGxpY2F0aW9uLCBib290c3RyYXAsIGFuZCBydW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkIGEgY29tbWVudCB0byB0aGlzIGxpbmUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGlua3MgPSBKU09OLnBhcnNlKGxpbmtzUmF3KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZ29hbHMgPSBKU09OLnBhcnNlKGdvYWxzUmF3KTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZ29hbHMgPSAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBjcmVhdGVBY3Rpb24oKSB7Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QWRkIGEgY29tbWVudCB0byB0aGlzIGxpbmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgbGlua3MgPSBKU09OLnBhcnNlKGxpbmtzUmF3KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZ29hbHMgPSBKU09OLnBhcnNlKGdvYWxzUmF3KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">J25qICcK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZ29hbHMgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QNCh0LXRgNCz0LXQuSDQnNCw0LvRjNGH0LjRhiBkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>files</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>files</last-pattern>
       <last-replace>ownParam</last-replace>
       <last-substitute>result</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
-        <entry>carr</entry>
-        <entry>$1</entry>
-        <entry>$2</entry>
         <entry>*</entry>
         <entry encoding="base64">XDzQv9C+0YHRgtCw0LLRidC40LrRg1w+</entry>
         <entry>data</entry>
@@ -317,9 +323,12 @@
         <entry>queue</entry>
         <entry>createJ</entry>
         <entry>get</entry>
+        <entry>buld</entry>
+        <entry>deploy</entry>
+        <entry>&quot;deploy</entry>
+        <entry>files</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcCA=</entry>
         <entry encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcDxjcj4=</entry>
         <entry>action MethodUp</entry>
         <entry>q</entry>
@@ -337,8 +346,9 @@
         <entry>set relativenumber</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>nmap п g</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
