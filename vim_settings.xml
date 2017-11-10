@@ -21,6 +21,9 @@
       <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/addons/_print_register.phtml" timestamp="1508748173348">
         <mark key="'" line="0" column="88" />
       </file>
+      <file name="$USER_HOME$/projects/vast-ng/crm/app/app-routing.module.ts" timestamp="1510291248710">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Application.php" timestamp="1509497342047">
         <mark key="'" line="383" column="31" />
       </file>
@@ -38,11 +41,11 @@
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/api-carrier/models/Api/CdekSaver.php" timestamp="1510282519181" />
       <file name="/Delivery.php" timestamp="1510283639999" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1510290998482">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1510291494678">
+        <mark key="[" line="11" column="82" />
+        <mark key="]" line="11" column="88" />
+        <mark key="." line="11" column="88" />
+        <mark key="^" line="11" column="88" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/wms1/models/DbRow/Parcel.php" timestamp="1509523640988">
         <mark key="'" line="293" column="23" />
@@ -152,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="37" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="259" column="0" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="66" column="22" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
       <jump line="94" column="27" filename="$USER_HOME$/projects/vast/application/models/DbTable/Cart.php" />
@@ -252,13 +254,14 @@
       <jump line="241" column="0" filename="/CdekSaver.php" />
       <jump line="243" column="23" filename="/CdekSaver.php" />
       <jump line="746" column="23" filename="/CdekSaver.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/vast-ng/crm/app/app-routing.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBleHBvcnRfcXVldWUgV0hFUkUgb3duZXJfaWQgPSA4MSBBTkQgdGFibGVfY2xhc3NfbmFtZSBMSUtFICdEZWZhdWx0JSc7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
@@ -270,7 +273,7 @@
         <text>fill</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gZXhwb3J0X3F1ZXVlIFdIRVJFIG9iamVjdF90eXBlPSdwcm9kdWN0JyBBTkQgb3duZXJfaWQ9ODE7Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBleHBvcnRfcXVldWUgV0hFUkUgb3duZXJfaWQgPSA4MSBBTkQgdGFibGVfY2xhc3NfbmFtZSBMSUtFICdEZWZhdWx0JSc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gZXhwb3J0X3F1ZXVlIFdIRVJFIG9iamVjdF90eXBlPSdwcm9kdWN0JyBBTkQgb3duZXJfaWQ9ODEgQU5EIG9iamVjdF9pZD0xMTUyNTsK</text>
@@ -300,7 +303,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -336,10 +339,6 @@
         <entry>fill</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm1hcCA8c3BhY2U+bXUgOmFjdGlvbiBNZXRob2RVcDxjcj4=</entry>
-        <entry>action MethodUp</entry>
-        <entry>q</entry>
-        <entry>listactions</entry>
         <entry>listactions Jump</entry>
         <entry>actionlist Jump</entry>
         <entry>set nu</entry>
@@ -351,11 +350,15 @@
         <entry>action NextDiff</entry>
         <entry>action PreviousDiff</entry>
         <entry>set relativenumber</entry>
-        <entry>e ~/.ideavimrc</entry>
         <entry>nmap п g</entry>
         <entry>wq</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>actionlist join</entry>
+        <entry>clipboard+=unnamed</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>set clipboard+=unnamed</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
