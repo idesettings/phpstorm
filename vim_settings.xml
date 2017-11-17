@@ -30,21 +30,15 @@
       <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
         <mark key="'" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/vast/build.xml" timestamp="1510190390948">
-        <mark key="'" line="153" column="14" />
-        <mark key="[" line="262" column="68" />
-        <mark key="]" line="262" column="68" />
-        <mark key="." line="57" column="58" />
-      </file>
       <file name="/SdekIntegrator.php" timestamp="1509598599226">
         <mark key="'" line="571" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1510803348735">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1510886493715">
         <mark key="'" line="11" column="16" />
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="25" column="35" />
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action/Helper/Redirector.php" timestamp="1510728682185">
         <mark key="'" line="225" column="30" />
@@ -57,6 +51,9 @@
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/api1c/controllers/ApiController.php" timestamp="1510212393793">
         <mark key="'" line="69" column="73" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/DbTable/Task.php" timestamp="1510886008448">
+        <mark key="'" line="49" column="20" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Selection.php" timestamp="1510022075767">
         <mark key="'" line="62" column="8" />
@@ -108,8 +105,10 @@
       <file name="/Locality.php" timestamp="1509341756443">
         <mark key="'" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task.php" timestamp="1510814994338">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task.php" timestamp="1510886003264">
+        <mark key="'" line="136" column="20" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="61" />
       </file>
       <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1509432251941">
         <mark key="[" line="46" column="0" />
@@ -158,6 +157,9 @@
       <file name="$USER_HOME$/projects/vast/application/modules/delivery/models/Carrier.php" timestamp="1508741802103">
         <mark key="'" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/DbRow/Task.php" timestamp="1510886012792">
+        <mark key="'" line="66" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.ts" timestamp="1510624491717">
         <mark key="'" line="1706" column="0" />
       </file>
@@ -172,14 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="14" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="122" column="20" filename="$USER_HOME$/projects/goals/db/work/goals.json" />
-      <jump line="383" column="31" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Application.php" />
-      <jump line="42" column="74" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action.php" />
-      <jump line="162" column="20" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action.php" />
-      <jump line="214" column="25" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action.php" />
-      <jump line="47" column="21" filename="$USER_HOME$/projects/vast/library/Vast/Controller/Json.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/vast/library/Vast/Controller/Json.php" />
       <jump line="778" column="20" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Response/Abstract.php" />
       <jump line="584" column="20" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Response/Abstract.php" />
       <jump line="750" column="20" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Response/Abstract.php" />
@@ -272,13 +266,21 @@
       <jump line="225" column="30" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action/Helper/Redirector.php" />
       <jump line="11" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/vast/application/modules/cron/models/Task.php" />
+      <jump line="27" column="27" filename="$USER_HOME$/projects/vast/application/modules/cron/models/Task.php" />
+      <jump line="65" column="20" filename="$USER_HOME$/projects/vast/application/modules/cron/models/DbRow/Task.php" />
+      <jump line="38" column="20" filename="$USER_HOME$/projects/vast/application/modules/cron/models/DbTable/Task.php" />
+      <jump line="37" column="20" filename="$USER_HOME$/projects/vast/application/modules/cron/models/DbTable/Task.php" />
+      <jump line="136" column="20" filename="$USER_HOME$/projects/vast/application/modules/cron/models/Task.php" />
+      <jump line="49" column="20" filename="$USER_HOME$/projects/vast/application/modules/cron/models/DbTable/Task.php" />
+      <jump line="66" column="23" filename="$USER_HOME$/projects/vast/application/modules/cron/models/DbRow/Task.php" />
+      <jump line="335" column="23" filename="$USER_HOME$/projects/vast/library/Vast/Db/Row.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBleHBvcnRfcXVldWUgV0hFUkUgb3duZXJfaWQgPSA4MSBBTkQgdGFibGVfY2xhc3NfbmFtZSBMSUtFICdEZWZhdWx0JSc7Cg==</text>
+        <text encoding="base64">CQlyZWdpc3Rlcl9zaHV0ZG93bl9mdW5jdGlvbigkdGhpcy0+ZmF0YWxFcnJvckhhbmRsZXIpOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
@@ -290,7 +292,7 @@
         <text>setRe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBleHBvcnRfcXVldWUgV0hFUkUgb3duZXJfaWQgPSA4MSBBTkQgdGFibGVfY2xhc3NfbmFtZSBMSUtFICdEZWZhdWx0JSc7Cg==</text>
+        <text encoding="base64">CQlyZWdpc3Rlcl9zaHV0ZG93bl9mdW5jdGlvbigkdGhpcy0+ZmF0YWxFcnJvckhhbmRsZXIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gZXhwb3J0X3F1ZXVlIFdIRVJFIG9iamVjdF90eXBlPSdwcm9kdWN0JyBBTkQgb3duZXJfaWQ9ODEgQU5EIG9iamVjdF9pZD0xMTUyNTsK</text>
