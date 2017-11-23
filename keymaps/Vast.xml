@@ -128,9 +128,6 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-  </action>
   <action id="HippieBackwardCompletion" />
   <action id="HtmlTableCellNavigateLeft" />
   <action id="HtmlTableCellNavigateRight" />
