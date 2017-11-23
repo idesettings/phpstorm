@@ -9,17 +9,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\PHP54\php.exe" id="8687cfd7-eac6-44cc-877d-bf89c7556bb4" name="PHP 5.4" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://vast_php:latest/php" id="e911ced8-370c-44a8-b724-b0c5c355cc75" name="Docker PHP" debugger_id="php.debugger.XDebug">
-        <configuration_options>
-          <configuration_option name="xdebug.remote_host" value="172.17.0.1" />
-        </configuration_options>
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="vast_php:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Docker PHP">
