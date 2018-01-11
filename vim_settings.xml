@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/CdekSaver.php" timestamp="1510283070512">
@@ -44,8 +44,19 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vast/application/configs/.env" timestamp="1515652398647">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/cron/models/DbRow/Task.php" timestamp="1510886012792">
         <mark key="'" line="66" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/docker/php/Dockerfile" timestamp="1515652506440">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Db/Table/Abstract.php" timestamp="1510727924905">
         <mark key="'" line="789" column="35" />
@@ -89,6 +100,12 @@
         <mark key="'" line="1706" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/Queue/Job/ClearBitrixCart.php" timestamp="1515642181842" />
+      <file name="$USER_HOME$/projects/vast/docker/php/xdebug.ini" timestamp="1515652537598">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task/DeleteOldCart.php" timestamp="1509082769975">
         <mark key="'" line="2" column="33" />
       </file>
@@ -108,12 +125,16 @@
       <file name="/Locality.php" timestamp="1509341756443">
         <mark key="'" line="20" column="4" />
       </file>
+      <file name="/PHP Console" timestamp="1515651840382">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
         <mark key="'" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.html" timestamp="1510624519343">
         <mark key="'" line="507" column="21" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1515652223917" />
       <file name="/dummy.sql" timestamp="1510535907674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -121,12 +142,6 @@
       </file>
       <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/addons/_print_register.phtml" timestamp="1508748173348">
         <mark key="'" line="0" column="88" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510727826517">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/api1c/controllers/ApiController.php" timestamp="1510212393793">
         <mark key="'" line="69" column="73" />
@@ -149,7 +164,7 @@
       <file name="$USER_HOME$/projects/vast/application/models/Domain.php" timestamp="1509607213285">
         <mark key="'" line="273" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/vast/public/index.php" timestamp="1510042376328">
+      <file name="$USER_HOME$/projects/vast/public/index.php" timestamp="1515652464385">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -287,14 +302,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIGVjaG8geGRlYnVnLnJlbW90ZV9ob3N0PSQoaXAgcm91dGUgfCBhd2sgJy9kZWZhdWx0LyB7IHByaW50ICQyIH0nKSA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3hkZWJ1Zy5pbmkK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">ICAgICAgImNvZGUiOiAiamJvdC1pbnMtZ3JhZGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text>watch</text>
@@ -303,31 +318,31 @@
         <text encoding="base64">CQlyZWdpc3Rlcl9zaHV0ZG93bl9mdW5jdGlvbigkdGhpcy0+ZmF0YWxFcnJvckhhbmRsZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJMiA9PiAnYW5kb21pZWxsJywK</text>
+        <text encoding="base64">UlVOIGVjaG8geGRlYnVnLnJlbW90ZV9ob3N0PSQoaXAgcm91dGUgfCBhd2sgJy9kZWZhdWx0LyB7IHByaW50ICQyIH0nKSA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3hkZWJ1Zy5pbmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJMyA9PiAnYW56ZW0nLAo=</text>
+        <text encoding="base64">UlVOIGVjaG8geGRlYnVnLnJlbW90ZV9ob3N0PSQoaXAgcm91dGUgfCBhd2sgJy9kZWZhdWx0LyB7IHByaW50ICQyIH0nKSA+PiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3hkZWJ1Zy5pbmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJMCA9PiAnc3RhcycsCg==</text>
+        <text encoding="base64">CQkJMiA9PiAnYW5kb21pZWxsJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gZXhwb3J0X3F1ZXVlIFdIRVJFIG9iamVjdF90eXBlPSdwcm9kdWN0JyBBTkQgb3duZXJfaWQ9ODEgQU5EIG9iamVjdF9pZD0xMTUyNTsK</text>
+        <text encoding="base64">CQkJMyA9PiAnYW56ZW0nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTxleGVjIGRpcj0iJHtwcm9qZWN0LmJhc2VkaXJ9IiBjb21tYW5kPSJybSAke2RlcGxveS5idWlsZC5kaXJ9L3RtcC9jYWNoZS9kYi8qIiBjaGVja3JldHVybj0idHJ1ZSIgLz4K</text>
+        <text encoding="base64">CQkJMCA9PiAnc3RhcycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCTxlY2hvIG1lc3NhZ2U9IkNsZWFuaW5nIHVwIHRtcCBkaXI6IHJtICR7ZGVwbG95LmJ1aWxkLmRpcn0vdG1wL2NhY2hlL2RiLyoiIC8+Cg==</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gZXhwb3J0X3F1ZXVlIFdIRVJFIG9iamVjdF90eXBlPSdwcm9kdWN0JyBBTkQgb3duZXJfaWQ9ODEgQU5EIG9iamVjdF9pZD0xMTUyNTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopCkZST00gZXZlbnRfbG9nOwoKCkRFTEVURSBGUk9NIGV2ZW50X2xvZzsKClRSVU5DQVRFIGV2ZW50X2xvZzsKCgpTRUxFQ1QgRElTVElOQ1Qgc3RhdGUKRlJPTSAib3JkZXJfb3BlcmF0aW9ucyI7CgoKU0VMRUNUICoKRlJPTSBldmVudF9sb2c7CgpTRUxFQ1QKCWV2ZW50X2NvZGUsCgljb3VudCgqKQpGUk9NIGV2ZW50X2xvZwpHUk9VUCBCWSBldmVudF9jb2RlOwoKClNFTEVDVCBza3UKRlJPTSBwcm9kdWN0CldIRVJFIGlkID0gOTAxNDsKClNFTEVDVAoJaWQsCglkZWxpdmVyeV9zZXJ2aWNlX2lkLAoJZGVsaXZlcnlfdHlwZV9pZCwKCWRlbGl2ZXJ5X2lkX25ldwpGUk9NICJvcmRlciIKV0hFUkUgaWQgPSA4MDIyNTA7CgpTRUxFQ1QgKgpGUk9NIGRlbGl2ZXJ5X2NhcnJpZXIKV0hFUkUgaWQgPSAzMzsKU0VMRUNUICoKRlJPTSBkZWxpdmVyeV9jYXJyaWVyCldIRVJFIGlkID0gMzA7ClNFTEVDVCAqCkZST00gZGVsaXZlcnlfZGVsaXZlcnkKV0hFUkUgaWQgPSA5NTQ7CgpTRUxFQ1QgKgpGUk9NIGdldF9vcmRlcnNfYXdhaXRpbmdfcGFja2luZygxLCA4MSk7CgpTRUxFQ1QgKgpGUk9NIHdtc19zZWxlY3Rpb25vcmRlcgpXSEVSRSBvcmRlcl9pZCA9IDgwNTEyOTsKClNFTEVDVCBiYXJjb2RlLCBjb3VudCgqKQpGUk9NIHdtc19wYXJjZWwKV0hFUkUgb3JkZXJfcHJvY2Vzc19jYXJyaWVyX2lkID0gMjIKR1JPVVAgQlkgYmFyY29kZQpIQVZJTkcgY291bnQoKikgPiAxCgpTRUxFQ1QgaWQsIHJvd19udW1iZXIoKSBPVkVSKFBBUlRJVElPTiBCWSBiYXJjb2RlIE9SREVSIEJZIGJhcmNvZGUpLCBST1dfTlVNQkVSKCkgT1ZFUihQQVJUSVRJT04gQlkgYmFyY29kZSBPUkRFUiBCWSBiYXJjb2RlKSA+IDEgQVMgaXNfZG91YmxlCiAgICAgICAgRlJPTSB3bXNfY2FycmllcmJhcmNvZGUKICAgICAgICBXSEVSRSBiYXJjb2RlIElOIChTRUxFQ1QgYmFyY29kZQogICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gd21zX2NhcnJpZXJiYXJjb2RlCiAgICAgICAgICAgICAgICAgICAgICAgICAgR1JPVVAgQlkgY2FycmllciwgYmFyY29kZSBIQVZJTkcgY291bnQoKik+MSk7Cg==</text>
+        <text encoding="base64">CQkJCTxleGVjIGRpcj0iJHtwcm9qZWN0LmJhc2VkaXJ9IiBjb21tYW5kPSJybSAke2RlcGxveS5idWlsZC5kaXJ9L3RtcC9jYWNoZS9kYi8qIiBjaGVja3JldHVybj0idHJ1ZSIgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQ3JlYXRlIGFwcGxpY2F0aW9uLCBib290c3RyYXAsIGFuZCBydW4K</text>
+        <text encoding="base64">CQkJCTxlY2hvIG1lc3NhZ2U9IkNsZWFuaW5nIHVwIHRtcCBkaXI6IHJtICR7ZGVwbG95LmJ1aWxkLmRpcn0vdG1wL2NhY2hlL2RiLyoiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopCkZST00gZXZlbnRfbG9nOwoKCkRFTEVURSBGUk9NIGV2ZW50X2xvZzsKClRSVU5DQVRFIGV2ZW50X2xvZzsKCgpTRUxFQ1QgRElTVElOQ1Qgc3RhdGUKRlJPTSAib3JkZXJfb3BlcmF0aW9ucyI7CgoKU0VMRUNUICoKRlJPTSBldmVudF9sb2c7CgpTRUxFQ1QKCWV2ZW50X2NvZGUsCgljb3VudCgqKQpGUk9NIGV2ZW50X2xvZwpHUk9VUCBCWSBldmVudF9jb2RlOwoKClNFTEVDVCBza3UKRlJPTSBwcm9kdWN0CldIRVJFIGlkID0gOTAxNDsKClNFTEVDVAoJaWQsCglkZWxpdmVyeV9zZXJ2aWNlX2lkLAoJZGVsaXZlcnlfdHlwZV9pZCwKCWRlbGl2ZXJ5X2lkX25ldwpGUk9NICJvcmRlciIKV0hFUkUgaWQgPSA4MDIyNTA7CgpTRUxFQ1QgKgpGUk9NIGRlbGl2ZXJ5X2NhcnJpZXIKV0hFUkUgaWQgPSAzMzsKU0VMRUNUICoKRlJPTSBkZWxpdmVyeV9jYXJyaWVyCldIRVJFIGlkID0gMzA7ClNFTEVDVCAqCkZST00gZGVsaXZlcnlfZGVsaXZlcnkKV0hFUkUgaWQgPSA5NTQ7CgpTRUxFQ1QgKgpGUk9NIGdldF9vcmRlcnNfYXdhaXRpbmdfcGFja2luZygxLCA4MSk7CgpTRUxFQ1QgKgpGUk9NIHdtc19zZWxlY3Rpb25vcmRlcgpXSEVSRSBvcmRlcl9pZCA9IDgwNTEyOTsKClNFTEVDVCBiYXJjb2RlLCBjb3VudCgqKQpGUk9NIHdtc19wYXJjZWwKV0hFUkUgb3JkZXJfcHJvY2Vzc19jYXJyaWVyX2lkID0gMjIKR1JPVVAgQlkgYmFyY29kZQpIQVZJTkcgY291bnQoKikgPiAxCgpTRUxFQ1QgaWQsIHJvd19udW1iZXIoKSBPVkVSKFBBUlRJVElPTiBCWSBiYXJjb2RlIE9SREVSIEJZIGJhcmNvZGUpLCBST1dfTlVNQkVSKCkgT1ZFUihQQVJUSVRJT04gQlkgYmFyY29kZSBPUkRFUiBCWSBiYXJjb2RlKSA+IDEgQVMgaXNfZG91YmxlCiAgICAgICAgRlJPTSB3bXNfY2FycmllcmJhcmNvZGUKICAgICAgICBXSEVSRSBiYXJjb2RlIElOIChTRUxFQ1QgYmFyY29kZQogICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gd21zX2NhcnJpZXJiYXJjb2RlCiAgICAgICAgICAgICAgICAgICAgICAgICAgR1JPVVAgQlkgY2FycmllciwgYmFyY29kZSBIQVZJTkcgY291bnQoKik+MSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
