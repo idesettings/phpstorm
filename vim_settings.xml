@@ -1,37 +1,93 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action.php" timestamp="1510728624707">
-        <mark key="'" line="795" column="36" />
-      </file>
       <file name="/CdekSaver.php" timestamp="1510283070512">
         <mark key="'" line="746" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/CartTest.php" timestamp="1509341525381">
+        <mark key="'" line="20" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/controllers/ProductsController.php" timestamp="1509694573566">
+        <mark key="'" line="1434" column="20" />
       </file>
       <file name="/CustomerTest.php" timestamp="1509341556353">
         <mark key="'" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/Cart.php" timestamp="1509085457841">
-        <mark key="'" line="59" column="22" />
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Cart.php" timestamp="1509000687599">
+        <mark key="'" line="177" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/CartElement.php" timestamp="1509524420232">
-        <mark key="'" line="61" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/addons/_print_register.phtml" timestamp="1508748173348">
-        <mark key="'" line="0" column="88" />
+      <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Packing.php" timestamp="1509523634036">
+        <mark key="'" line="144" column="20" />
       </file>
       <file name="$USER_HOME$/projects/vast-ng/crm/app/app-routing.module.ts" timestamp="1510291248710">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Application.php" timestamp="1509497342047">
-        <mark key="'" line="383" column="31" />
+      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Db/Table/Row/Abstract.php" timestamp="1508986771080">
+        <mark key="'" line="312" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
-        <mark key="'" line="43" column="40" />
+      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Response/Abstract.php" timestamp="1509499514330">
+        <mark key="'" line="317" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/DbTable/Task.php" timestamp="1510886008448">
+        <mark key="'" line="49" column="20" />
       </file>
       <file name="/SdekIntegrator.php" timestamp="1509598599226">
         <mark key="'" line="571" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/controllers/DomainController.php" timestamp="1509606314329">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/DbRow/Task.php" timestamp="1510886012792">
+        <mark key="'" line="66" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Db/Table/Abstract.php" timestamp="1510727924905">
+        <mark key="'" line="789" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" timestamp="1508748339341">
+        <mark key="'" line="103" column="111" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/models/DbRow/CartElement.php" timestamp="1509524412633">
+        <mark key="'" line="66" column="20" />
+      </file>
+      <file name="/LocalityTest.php" timestamp="1509341885990">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" timestamp="1508911328029">
+        <mark key="'" line="70" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1509432251941">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/AjaxCartController.php" timestamp="1509341208207">
+        <mark key="'" line="20" column="58" />
+      </file>
+      <file name="/Cart.php" timestamp="1509082423746">
+        <mark key="'" line="56" column="27" />
+      </file>
+      <file name="/Payment.php" timestamp="1509341903669">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/Manager.php" timestamp="1509690865327">
+        <mark key="'" line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.ts" timestamp="1510624491717">
+        <mark key="'" line="1706" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/Queue/Job/ClearBitrixCart.php" timestamp="1515642181842" />
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task/DeleteOldCart.php" timestamp="1509082769975">
+        <mark key="'" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Application.php" timestamp="1509497342047">
+        <mark key="'" line="383" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/Cart.php" timestamp="1509085457841">
+        <mark key="'" line="59" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/02d6ef24-64ff-4f8f-91ed-55c4bb9afc0a/console.sql" timestamp="1510886493715">
         <mark key="'" line="11" column="16" />
@@ -40,93 +96,22 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action/Helper/Redirector.php" timestamp="1510728682185">
-        <mark key="'" line="225" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/wms1/models/DbRow/Parcel.php" timestamp="1509523640988">
-        <mark key="'" line="293" column="23" />
-      </file>
-      <file name="/LocalityTest.php" timestamp="1509341885990">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/api1c/controllers/ApiController.php" timestamp="1510212393793">
-        <mark key="'" line="69" column="73" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/DbTable/Task.php" timestamp="1510886008448">
-        <mark key="'" line="49" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Selection.php" timestamp="1510022075767">
-        <mark key="'" line="62" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/mappers/Db/Order.php" timestamp="1510543965201">
-        <mark key="'" line="105" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Response/Abstract.php" timestamp="1509499514330">
-        <mark key="'" line="317" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Db/Table/Abstract.php" timestamp="1510727924905">
-        <mark key="'" line="789" column="35" />
-      </file>
-      <file name="/AjaxCartController.php" timestamp="1509341208207">
-        <mark key="'" line="20" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/public/index.php" timestamp="1510042376328">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/toggly/Youtrack/WorkItem.php" timestamp="1508911328029">
-        <mark key="'" line="70" column="17" />
-      </file>
-      <file name="/Cart.php" timestamp="1509082423746">
-        <mark key="'" line="56" column="27" />
-      </file>
-      <file name="/Payment.php" timestamp="1509341903669">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/models/Domain.php" timestamp="1509607213285">
-        <mark key="'" line="273" column="20" />
-      </file>
-      <file name="/Manager.php" timestamp="1509690865327">
-        <mark key="'" line="122" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/_table_row.phtml" timestamp="1508748339341">
-        <mark key="'" line="103" column="111" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Db/Table/Row/Abstract.php" timestamp="1508986771080">
-        <mark key="'" line="312" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task/DeleteOldCart.php" timestamp="1509082769975">
-        <mark key="'" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Cart.php" timestamp="1509000687599">
-        <mark key="'" line="177" column="20" />
-      </file>
       <file name="/Locality.php" timestamp="1509341756443">
         <mark key="'" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task.php" timestamp="1510886003264">
-        <mark key="'" line="136" column="20" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="61" />
+      <file name="$USER_HOME$/projects/toggly/Syncer.php" timestamp="1508912100659">
+        <mark key="'" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/goals/api/index.js" timestamp="1509432251941">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/controllers/DomainController.php" timestamp="1509606314329">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/validators/CartTest.php" timestamp="1509341525381">
-        <mark key="'" line="20" column="62" />
+      <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.html" timestamp="1510624519343">
+        <mark key="'" line="507" column="21" />
       </file>
       <file name="/dummy.sql" timestamp="1510535907674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/addons/_print_register.phtml" timestamp="1508748173348">
+        <mark key="'" line="0" column="88" />
       </file>
       <file name="/Dummy.txt" timestamp="1510727826517">
         <mark key="[" line="0" column="0" />
@@ -134,44 +119,58 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/api1c/controllers/ApiController.php" timestamp="1510212393793">
+        <mark key="'" line="69" column="73" />
+      </file>
       <file name="/1.create-tables.sql" timestamp="1509689881475">
         <mark key="'" line="21" column="0" />
       </file>
       <file name="/number-sequence.spec.ts" timestamp="1510279665193">
         <mark key="'" line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/controllers/WmsController.php" timestamp="1510022103676">
-        <mark key="'" line="2178" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.html" timestamp="1510624519343">
-        <mark key="'" line="507" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Packing.php" timestamp="1509523634036">
-        <mark key="'" line="144" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/shop/models/DbRow/CartElement.php" timestamp="1509524412633">
-        <mark key="'" line="66" column="20" />
+      <file name="$USER_HOME$/projects/vast/application/modules/wms1/models/DbRow/Parcel.php" timestamp="1509523640988">
+        <mark key="'" line="293" column="23" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/delivery/models/Carrier.php" timestamp="1508741802103">
         <mark key="'" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/DbRow/Task.php" timestamp="1510886012792">
-        <mark key="'" line="66" column="23" />
+      <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Selection.php" timestamp="1510022075767">
+        <mark key="'" line="62" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/vast/library/Vast/Db/Adapter/Pdo/Sqlite.php" timestamp="1511160901471" />
-      <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.ts" timestamp="1510624491717">
-        <mark key="'" line="1706" column="0" />
+      <file name="$USER_HOME$/projects/vast/application/models/Domain.php" timestamp="1509607213285">
+        <mark key="'" line="273" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/controllers/ProductsController.php" timestamp="1509694573566">
-        <mark key="'" line="1434" column="20" />
+      <file name="$USER_HOME$/projects/vast/public/index.php" timestamp="1510042376328">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action.php" timestamp="1510728624707">
+        <mark key="'" line="795" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/cron/models/Task.php" timestamp="1510886003264">
+        <mark key="'" line="136" column="20" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="61" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/CartElement.php" timestamp="1509524420232">
+        <mark key="'" line="61" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/vast/application/mappers/Db/Order.php" timestamp="1510543965201">
+        <mark key="'" line="105" column="22" />
       </file>
       <file name="/ScheduleController.php" timestamp="1509688631141">
         <mark key="'" line="125" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Action/Helper/Redirector.php" timestamp="1510728682185">
+        <mark key="'" line="225" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/vast/application/modules/shop/controllers/CheckoutController.php" timestamp="1510213813612">
         <mark key="'" line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/vast/library/Vast/Db/Adapter/Pdo/Transactions.php" timestamp="1511160888768" />
+      <file name="$USER_HOME$/projects/vast/application/controllers/WmsController.php" timestamp="1510022103676">
+        <mark key="'" line="2178" column="47" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="778" column="20" filename="$USER_HOME$/projects/vast/vendor/zendframework/zendframework1/library/Zend/Controller/Response/Abstract.php" />
