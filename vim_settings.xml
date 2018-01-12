@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Cart.php" timestamp="1509000687599">
         <mark key="'" line="177" column="20" />
       </file>
+      <file name="/Delivery.ts" timestamp="1515725132368" />
       <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Packing.php" timestamp="1509523634036">
         <mark key="'" line="144" column="20" />
       </file>
@@ -99,7 +100,6 @@
       <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.ts" timestamp="1510624491717">
         <mark key="'" line="1706" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vast/application/modules/Queue/Job/ClearBitrixCart.php" timestamp="1515642181842" />
       <file name="$USER_HOME$/projects/vast/docker/php/xdebug.ini" timestamp="1515652537598">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -134,7 +134,6 @@
       <file name="$USER_HOME$/projects/vast-ng/crm/app/order/order.component.html" timestamp="1510624519343">
         <mark key="'" line="507" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1515652223917" />
       <file name="/dummy.sql" timestamp="1510535907674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -142,6 +141,9 @@
       </file>
       <file name="$USER_HOME$/projects/vast/application/views/scripts/reports/render/addons/_print_register.phtml" timestamp="1508748173348">
         <mark key="'" line="0" column="88" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515725151852">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vast/application/modules/api1c/controllers/ApiController.php" timestamp="1510212393793">
         <mark key="'" line="69" column="73" />
