@@ -68,6 +68,10 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="s" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -111,6 +115,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="EditorToggleCase" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
@@ -158,6 +166,7 @@
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="alt n" />
