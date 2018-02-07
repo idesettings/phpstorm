@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/CdekSaver.php" timestamp="1510283070512">
@@ -18,7 +18,6 @@
       <file name="$USER_HOME$/projects/vast/application/modules/shop/mappers/Db/Cart.php" timestamp="1509000687599">
         <mark key="'" line="177" column="20" />
       </file>
-      <file name="/Delivery.ts" timestamp="1515725132368" />
       <file name="$USER_HOME$/projects/vast/application/models/DbRow/WMS/Packing.php" timestamp="1509523634036">
         <mark key="'" line="144" column="20" />
       </file>
