@@ -78,10 +78,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="ctrl 4" />
@@ -154,7 +150,6 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="PopupHector" />
-  <action id="Replace" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
