@@ -29,6 +29,7 @@
         <entry key="'Ctrl+Shift+F'" value="2" />
         <entry key="'Ctrl+Shift+F10'" value="8" />
         <entry key="'Ctrl+Shift+F5' or 'Alt+Shift+F5'" value="1" />
+        <entry key="'Ctrl+Shift+O'" value="1" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="1" />
         <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="1" />
         <entry key="'Delete'" value="2" />
@@ -37,6 +38,7 @@
         <entry key="'F4'" value="3" />
         <entry key="'F6'" value="1" />
         <entry key="'Insert'" value="3" />
+        <entry key="'Shift+F4'" value="3" />
         <entry key="'Shift+F5' or 'Ctrl+Shift+Delete'" value="11" />
         <entry key="'Shift+F6'" value="8" />
       </map>
