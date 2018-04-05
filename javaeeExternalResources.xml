@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://schema.phpunit.de/4.8/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.1/system/extResources/e374a285_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/5.1/phpunit.xsd" location="$USER_HOME$/.PhpStorm2017.1/system/extResources/b7badf3f_phpunit.xsd" />
     <resource url="http://vast.ru/api1c" location="$USER_HOME$/.WebIde95/system/extResources/91ae23b0_api1c.html" />
   </component>
 </application>
