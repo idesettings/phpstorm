@@ -9,7 +9,7 @@
         <entry key="'Alt+Delete'" value="15" />
         <entry key="'Alt+Enter'" value="2" />
         <entry key="'Alt+Insert'" value="4" />
-        <entry key="'Alt+Insert' or 'Ctrl+N'" value="44" />
+        <entry key="'Alt+Insert' or 'Ctrl+N'" value="46" />
         <entry key="'Alt+R'" value="1" />
         <entry key="'Alt+Shift+A'" value="1" />
         <entry key="'Alt+Shift+D'" value="3" />
@@ -29,7 +29,7 @@
         <entry key="'Ctrl+Shift+F'" value="2" />
         <entry key="'Ctrl+Shift+F10'" value="8" />
         <entry key="'Ctrl+Shift+F5' or 'Alt+Shift+F5'" value="1" />
-        <entry key="'Ctrl+Shift+O'" value="1" />
+        <entry key="'Ctrl+Shift+O'" value="2" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="1" />
         <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="1" />
         <entry key="'Delete'" value="2" />
