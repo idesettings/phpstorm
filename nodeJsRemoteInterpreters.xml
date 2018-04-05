@@ -1,5 +1,6 @@
 <application>
   <component name="NodeJSRemoteInterpreters">
     <interpreter node-remote-interpreter="docker://timelines_node:latest/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="timelines_node:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
+    <interpreter node-remote-interpreter="docker://node:alpine/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="node:alpine" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
   </component>
 </application>
